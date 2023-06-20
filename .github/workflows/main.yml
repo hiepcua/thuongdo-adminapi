@@ -1,0 +1,9 @@
+on:
+  pull_request:
+    branches: [main,develop]
+    types: [opened, synchronize, closed]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3

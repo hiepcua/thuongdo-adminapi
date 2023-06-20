@@ -1,0 +1,6437 @@
+[
+	{
+		"id": "001f2928-e3e7-4f00-b8b4-c387182d4329",
+		"name": "HUYỆN NAM SÁCH",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1727",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "007eb738-ab8a-4bf8-ab8f-7bb848dbafc4",
+		"name": "HUYỆN VĨNH LINH",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "1861",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0157ad14-7348-4b6c-9aa9-8b9f6cb8d68f",
+		"name": "HUYỆN NGHĨA HÀNH",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "1988",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0196e1ef-738f-45ed-bc27-b2c14f8b5d8c",
+		"name": "HUYỆN ĐÔNG HẢI",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "1926",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0213ea0a-17d7-4b3e-837d-06a64223cbb7",
+		"name": "HUYỆN KÔNG CHRO",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2149",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "024e9f51-46e3-4d78-90bd-ef0e4d7c055b",
+		"name": "THỊ XÃ HỒNG NGỰ",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "2059",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "0291174d-5d8b-43b3-bbea-e88a5ddf461b",
+		"name": "HUYỆN BẾN LỨC",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "1894",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "02a37c34-3616-4488-a630-f4de12cbf7ab",
+		"name": "QUẬN SƠN TRÀ",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1528",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "030f0a67-e35e-4d2d-bd55-b4b6dadebf9d",
+		"name": "HUYỆN ĐỒNG PHÚ",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1722",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "03124b41-d90e-4cc6-acba-a62cf1934951",
+		"name": "THÀNH PHỐ KON TUM",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "1660",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "033f3f73-6e1f-4b5b-a2da-30471fa2b40e",
+		"name": "HUYỆN MANG YANG",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2165",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0388a373-ad9a-42de-bf46-9796ddf4075b",
+		"name": "QUẬN CÁI RĂNG",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "1574",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "03b5cfc8-3912-4154-91a0-6d462e9c7471",
+		"name": "QUẬN KIẾN AN",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1590",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0420fe2d-494b-4c6c-b706-9eaf5ddf30c8",
+		"name": "HUYỆN MƯỜNG LÁT",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1878",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "049bb3b0-f456-4c95-b286-1e41ecaf19ef",
+		"name": "HUYỆN AN DƯƠNG",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1819",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "04e2c1a1-0350-45fc-9716-0fbb3aafe76f",
+		"name": "HUYỆN VĨNH LỢI",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "2050",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "05405643-665a-4f6b-948e-b99c4586bc11",
+		"name": "HUYỆN TIỀN HẢI",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "3281",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "057f121c-af1d-4381-971d-f0f8098b3413",
+		"name": "HUYỆN ĐĂK ĐOA",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2118",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "05a66521-8eb1-41a6-8686-3640d9e8ba3d",
+		"name": "HUYỆN ĐỨC THỌ",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "3188",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "066fab2c-ace9-40ce-81e7-ba002ae6a6ec",
+		"name": "HUYỆN BẢO THẮNG",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "2073",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "068dfedb-8aba-4570-b77c-070ca1b3b8cf",
+		"name": "HUYỆN CHÂU ĐỨC",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1709",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "069c2f34-3949-4f71-9457-1c1f41b02bd6",
+		"name": "QUẬN CẦU GIẤY",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1485",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "06da8726-aff1-4c8d-ac3f-d8e00578c995",
+		"name": "HUYỆN TỊNH BIÊN",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1752",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "075e6980-b70c-493f-80f6-b1429cc65f58",
+		"name": "HUYỆN IA PA",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1799",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "077444ba-55e1-44e0-b7d1-7d8646c3dcee",
+		"name": "THỊ XÃ CAO BẰNG",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "1641",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "0780b8f0-8e5a-49f8-8144-ea4d8d38ac68",
+		"name": "THÀNH PHỐ BẾN TRE",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1558",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "079d3442-b1f1-493c-9bee-f919be8d3fc9",
+		"name": "HUYỆN LẠNG GIANG",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1760",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "07ee654f-9f6e-4e69-9da3-de8f1d239fe4",
+		"name": "QUẬN 5",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1447",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "082a5b7e-6ef1-4d1a-aaa3-172cca36a697",
+		"name": "HUYỆN GÒ CÔNG ĐÔNG",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "1932",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "089e7824-c073-41a0-94a3-6152051c3c0f",
+		"name": "HUYỆN HIỆP HÒA",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1759",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "08bad8ef-28fe-4bd6-9777-d5e4fa2ae10a",
+		"name": "THÀNH PHỐ CẨM PHẢ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1683",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "08c9c1e1-f844-4cfd-85ff-f36f9dea94f0",
+		"name": "HUYỆN VĂN QUAN",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "3311",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "08d50ce7-2da1-41b2-86c8-854d5a301f14",
+		"name": "HUYỆN BẮC YÊN",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "2079",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "09359d3d-5f7d-4c81-a239-4918fa1c1570",
+		"name": "HUYỆN TRI TÔN",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1751",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0973ad26-4d8a-47e6-9f55-bafd3e061382",
+		"name": "HUYỆN KHOÁI CHÂU",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "1826",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "09e53927-5a22-494d-9a1b-f9f4a7c7d689",
+		"name": "HUYỆN VÂN HỒ",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "2255",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0a4422a9-c297-4fa6-8f57-0aade54e1e79",
+		"name": "HUYỆN SÔNG MÃ",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "2007",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0a7ade35-8769-41c8-a598-93a28290ab42",
+		"name": "HUYỆN NAM GIANG",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2177",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0b626740-0dc7-4464-83fb-d0df4e28f605",
+		"name": "THỊ XÃ PHƯỚC LONG",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1775",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0b862a91-be28-4ca1-8953-1079f9a8fbc4",
+		"name": "THÀNH PHỐ ĐỒNG XOÀI",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1625",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0baf30ca-5641-461a-aaad-a173a49fb4db",
+		"name": "HUYỆN PHÙ CÁT",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "1770",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0be7e598-192d-49ac-8e4f-3471cbf17155",
+		"name": "HUYỆN LẤP VÒ",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "1961",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0beee395-90be-440c-8d3d-db927e21605f",
+		"name": "THÀNH PHỐ VŨNG TÀU",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1544",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0c359bde-76a1-4ada-a981-87d2706c153b",
+		"name": "HUYỆN LANG CHÁNH",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "3216",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0c47bad9-8f49-47e0-b31b-f0c2dda1aa97",
+		"name": "QUẬN 8",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1450",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0c6cf6e2-b157-4053-9703-9068f8876d24",
+		"name": "HUYỆN QUẢNG XƯƠNG",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1747",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0ce130c3-c8df-47e7-88f9-71985b531b9a",
+		"name": "HUYỆN ĐỒNG XUÂN",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "3186",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0ce2725b-0e78-4142-8fcd-4fb5f366265f",
+		"name": "HUYỆN VĂN LÃNG",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "3310",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0d20c826-9f68-4dac-99ca-5756b034673d",
+		"name": "HUYỆN CÁI NƯỚC",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "1901",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0d4da52f-a9e0-45a0-af9a-f955bdd54640",
+		"name": "HUYỆN THẠCH THẤT",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1808",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0d791631-3b81-4282-97ff-337659701ab1",
+		"name": "HUYỆN AN LÃO",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "1886",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0da69569-c22b-45cc-b09c-0ecdf4dee7b6",
+		"name": "HUYỆN NẬM PỒ",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "2179",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0e125812-bb29-4026-9797-16c24de44c12",
+		"name": "QUẬN Ô MÔN",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "1575",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "0e92d33a-f345-4db0-839e-437dece017d8",
+		"name": "HUYỆN MỘC HÓA",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "3227",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0ea74711-5235-49ff-8ded-3ece99dd7dbb",
+		"name": "HUYỆN TÂN TRỤ",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "2016",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0eff7032-46f6-4923-89b9-07a27f8cd86c",
+		"name": "HUYỆN YÊN THỦY",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2270",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "0f16e4b1-b2b4-459f-aab1-7c0092630cbc",
+		"name": "THÀNH PHỐ CHÂU ĐỐC",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1753",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "10ce8558-a4fc-40a2-925e-5c7ebf344502",
+		"name": "THỊ XÃ PHỔ YÊN",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1990",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "10e3c0c3-064c-4f8d-825e-e979ea136acb",
+		"name": "THÀNH PHỐ CAM RANH",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "1664",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "11a3ec08-fb1a-4793-9ceb-bdcf96cd2900",
+		"name": "HUYỆN MƯỜNG ẢNG",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "2170",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "11cbb2a2-db6e-45d9-a155-a868102aca21",
+		"name": "HUYỆN NGHI LỘC",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1854",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "11d01159-6455-4f9b-a7fa-9d6f4d58e784",
+		"name": "HUYỆN QUẢNG NINH",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "2002",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "11d10ed8-7281-4421-b58a-09d14afe7e4a",
+		"name": "THÀNH PHỐ LONG KHÁNH",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1692",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1244ddf4-2f0c-4803-bfcb-6447fdbff63e",
+		"name": "HUYỆN LỤC YÊN",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "1967",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "12846613-7dd8-489d-a1b7-710b79a65ba0",
+		"name": "HUYỆN LỘC BÌNH",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "1963",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "12a8b7ca-3cfc-4f16-b10d-6d27f44131e7",
+		"name": "HUYỆN NINH PHƯỚC",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "1986",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "131c76d5-2e5d-4ec4-845c-1bf774672f7f",
+		"name": "HUYỆN QUỲNH LƯU",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1848",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "13232d6b-58ec-495e-a692-c4983144d7c7",
+		"name": "HUYỆN CẦN GIUỘC",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "1907",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1351bb5c-ecf3-4940-8625-a1b8f7585220",
+		"name": "HUYỆN LÝ SƠN",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "2114",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "1372d41b-dd6a-48d4-8426-a2f716a7d53f",
+		"name": "HUYỆN PHÚ NINH",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1995",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "13973b91-b7f0-48f9-957a-4f6e8656939d",
+		"name": "HUYỆN TRIỆU PHONG",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "2040",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "13a21243-645f-4093-9a0e-0ef73765e0f3",
+		"name": "THÀNH PHỐ NHA TRANG",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "1548",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "13c00be0-cead-42a2-95e5-8dd58ceb11e1",
+		"name": "HUYỆN PHÚ QUỐC",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2115",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "13e5e8f8-0db9-4858-8a75-846a7ae093d7",
+		"name": "THÀNH PHỐ VĨNH LONG",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "1562",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "14cf5f79-c60f-4b66-b97e-6531d2657ca1",
+		"name": "THÀNH PHỐ THỦ ĐỨC",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "3695",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "153f1a8b-e291-481e-9eaa-1997ad2a1980",
+		"name": "HUYỆN LÂM THAO",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "1959",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "154f1adf-e1b8-45a0-bcbb-d9576df49ceb",
+		"name": "HUYỆN PHÙ MỸ",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "3254",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "15a02e3d-ef76-4585-a26d-c3d63d7bdf1a",
+		"name": "HUYỆN HÒA VANG",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1687",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "15b73a0e-f3ff-45bb-b152-444e3e06d5e1",
+		"name": "HUYỆN TÂN SƠN",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "2015",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "1652c6be-276b-47b4-b5c8-d56133a0ffd7",
+		"name": "QUẬN TÂN BÌNH",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1455",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "166f82ff-d699-4a98-ac73-2eefdf0457df",
+		"name": "HUYỆN BẢO YÊN",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "1891",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "16e9a1e4-54ca-48c9-98c1-a5a27a909bae",
+		"name": "HUYỆN CAN LỘC",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "3143",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "17054ea7-fb47-4e05-a767-ce4e36329eba",
+		"name": "HUYỆN NAM TRÀ MY",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2178",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "176adcb3-e742-409b-8e09-e1e903b8c492",
+		"name": "HUYỆN TIÊN LỮ ",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "2018",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "1869dc80-aa0f-4ed1-8cb7-422669fd6330",
+		"name": "HUYỆN PHƯỚC SƠN",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2198",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "188c9f25-f5fd-4c5e-8e23-735b19227f79",
+		"name": "HUYỆN CHỢ LÁCH",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "3158",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "18967240-df62-4816-bbf8-e88870486c83",
+		"name": "THỊ XÃ ĐỨC PHỔ",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "1930",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "18a43630-8d47-4f04-a2a3-f51d84891490",
+		"name": "HUYỆN GIA VIỄN",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "3191",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "18dbaf53-3fe8-47ce-a099-929f93a68b54",
+		"name": "HUYỆN PHÚ LƯƠNG ",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "2195",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "18fed09e-4cc3-4667-89ce-2a83925f35d7",
+		"name": "HUYỆN CHÂU THÀNH A",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "1912",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "19194b09-1e29-4878-9854-3b36cf905193",
+		"name": "HUYỆN GIO LINH",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "1936",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "196560d4-4b6a-4749-a14b-f95546aa4053",
+		"name": "HUYỆN TAM BÌNH",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "2008",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "197d5d96-843f-4c0d-b363-636610c8f83f",
+		"name": "HUYỆN ĐĂK PƠ",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2119",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "19e6291a-9aa1-4169-bbf2-da69b2b7bdf5",
+		"name": "HUYỆN BẢO LÂM",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "1890",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1a3a3151-4f32-4a32-9e6e-b84a6c8dd949",
+		"name": "HUYỆN BUÔN ĐÔN",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1784",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "1a9e1167-3847-49fa-8ba6-f8b9a57ee155",
+		"name": "THÀNH PHỐ BẢO LỘC",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1838",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1ac819ea-355b-4f5d-a6f0-88129f2f31b3",
+		"name": "HUYỆN PHÙ NINH",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "1994",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "1c4d74cf-0480-436f-ac28-35513d61d100",
+		"name": "HUYỆN ĐỊNH HÓA",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1924",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1c6d8e72-e2a0-4c6c-a22b-b15fdd402993",
+		"name": "THỊ XÃ MƯỜNG LAY",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "2060",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "1cb6ec18-a342-4aa2-8e3c-ea27fb72a86c",
+		"name": "THÀNH PHỐ GIA NGHĨA",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "1627",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1cd05d2c-9ea7-4390-b810-020e065c1206",
+		"name": "HUYỆN QUỐC OAI",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "2004",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1d33006e-f230-43de-bd54-0f481356d142",
+		"name": "HUYỆN CẨM XUYÊN",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "1815",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1d7d5f64-ddc4-44db-80d8-9db854157e69",
+		"name": "HUYỆN HOA LƯ",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "1944",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1dbe93de-5ed3-4baf-9c2d-220861825c8e",
+		"name": "THỊ XÃ NGHI SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1870",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1e4d0361-cace-4405-9fd9-9545310ab867",
+		"name": "HUYỆN ĐẮK RLẤP",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "1790",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "1e7294cd-cb0c-4915-b70e-a31ce7a8061b",
+		"name": "HUYỆN KON PLÔNG",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "1834",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "1e89e2c6-6f6e-4c8f-b789-8fcfe7b51f07",
+		"name": "HUYỆN LONG MỸ",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "3445",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "1ecb36aa-6000-4d32-b020-e5738a121bee",
+		"name": "HUYỆN ĐẮK SONG",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "2120",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "1ef73d0d-8e6b-4a21-8f73-1342c97bd59f",
+		"name": "HUYỆN TUY PHƯỚC",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "2023",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "1fcb3681-4297-4bb3-8abf-bedeedeff126",
+		"name": "HUYỆN CHÂU PHÚ",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1758",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "20018e7a-f8a4-40be-8060-3c35fafaa7bd",
+		"name": "HUYỆN CẦN GIỜ",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "2090",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "209bbbbb-fc95-4985-b090-c385be059e9f",
+		"name": "HUYỆN PHÚC THỌ",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1807",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "211bed38-0b7f-4a44-9cb1-6af4a55e1ebb",
+		"name": "HUYỆN YÊN CHÂU",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "2267",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "2186dfa7-9e04-47ed-bea5-466c0597d34c",
+		"name": "HUYỆN TÂN YÊN",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1762",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "21bc3e76-de1b-4801-ac04-189fbcbf9ff5",
+		"name": "HUYỆN KIM SƠN",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "3205",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "21bf2983-ff29-447d-8021-c9557c12be9a",
+		"name": "HUYỆN EA KAR",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1931",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "21c61ade-6838-4972-9cb8-1bcdf41b7754",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1720",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "229a3c9d-4703-4b81-ac3d-00e65c7825b4",
+		"name": "HUYỆN SƠN TỊNH",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "1737",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "231ad463-61db-4cb4-95ae-2dce298c7094",
+		"name": "HUYỆN ĐÔ LƯƠNG",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1843",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "233971c9-c065-4672-ad04-9f2bc13b637e",
+		"name": "HUYỆN TUY AN",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "3284",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "23c96557-fa69-473b-bcd7-5d7d70fae59d",
+		"name": "QUẬN HOÀNG MAI",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1490",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2440e801-aa30-4e0d-8f43-98effabadb0b",
+		"name": "HUYỆN MỎ CÀY BẮC",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1974",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "246fd186-587f-470b-9ed9-92eb289e4ad6",
+		"name": "THÀNH PHỐ NAM ĐỊNH",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "1613",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2480e90a-f70b-4f8c-bf47-20d62b6a06e1",
+		"name": "HUYỆN MANG THÍT",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "2164",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "249d990c-c9e7-40ad-b8da-fe0206d42b4b",
+		"name": "QUẬN HẢI CHÂU",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1526",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "24bfea1a-c401-4131-8d80-652de09446f7",
+		"name": "QUẬN ĐỐNG ĐA",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1486",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "24d44e27-f071-48b3-9cf9-2466f01be774",
+		"name": "THỊ XÃ NGÃ NĂM",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2062",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "2554d845-e5bf-4067-a8bf-58ec056de36e",
+		"name": "HUYỆN NGHI XUÂN",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "1813",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "255c2487-8422-4565-aeaf-d6f90ace0db6",
+		"name": "HUYỆN ĐỨC TRỌNG",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1837",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "259a9cf2-ac90-41a1-aff8-c7dd3ca3e797",
+		"name": "THỊ XÃ VĨNH CHÂU",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2272",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "2632c403-23c9-40a9-aee1-45e737b3cfbe",
+		"name": " HUYỆN ĐẠI TỪ",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1918",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "26ca826b-2c42-4a71-a744-7e2002db52f4",
+		"name": "HUYỆN TRÀ LĨNH",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3305",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "2796a9d2-72be-45a8-b182-f43611596b58",
+		"name": "HUYỆN SƠN ĐỘNG",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1761",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "282d269e-6864-49b4-982b-9027a7828374",
+		"name": "HUYỆN HÒA AN",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "1943",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2864d0a5-b62f-4323-bbc4-553e4c72891d",
+		"name": "QUẬN 10",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1452",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2870c422-8ca9-4282-bea2-0d57c70aec7a",
+		"name": "HUYỆN CẨM GIÀNG",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1817",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "28ae6b34-029e-400e-bd41-ff1f1a997816",
+		"name": "HUYỆN HỚN QUẢN",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1773",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "28aef755-85d5-4623-8468-a059cf70bceb",
+		"name": "HUYỆN THƯỜNG XUÂN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1872",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "28be1103-679e-41e2-9af4-0ee2d563980d",
+		"name": "HUYỆN HẬU LỘC",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1942",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "28f92809-a116-4843-9b1a-13c2a05a6a5d",
+		"name": "HUYỆN HÀM TÂN",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "3196",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "29e2edb1-45d7-4b7e-9806-46e6927fc65e",
+		"name": "HUYỆN PHỤC HÒA",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "1997",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2a4a2921-92ac-431f-b2e9-268bcbd654e4",
+		"name": "QUẬN LIÊN CHIỂU",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1530",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2ab5fb23-df24-42af-9c2d-7aa585abe66d",
+		"name": "HUYỆN ĐÔNG GIANG",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2125",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "2acd98af-40d7-4e1a-8a25-438ace06cfc9",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "1910",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "2b824066-fe73-4039-86e7-705317701608",
+		"name": "THỊ XÃ HÒA THÀNH",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1721",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2bb0f51e-16a7-44d3-af44-fbd240e69186",
+		"name": "THỊ XÃ SA PA",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "2005",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2bbbe2cb-3c79-4c35-81ef-afa24d6979cf",
+		"name": "HUYỆN CỜ ĐỎ",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "3150",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "2c012493-332c-4bd3-9932-ebc795f78e9c",
+		"name": "HUYỆN ĐỨC CƠ",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1794",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2c3f0363-8c2e-4c04-a0a4-c05443ea060d",
+		"name": "HUYỆN CHÂU THÀNH ",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "2096",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "2c60e0ee-d893-49ba-9a77-72628623ff12",
+		"name": "HUYỆN HOÀI ĐỨC",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1805",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2d062b4e-43b8-4f12-9e78-c6a117b18e44",
+		"name": "HUYỆN THUẬN THÀNH",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1767",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2d5964d3-be15-4988-8f80-d3c2c97b97e5",
+		"name": "HUYỆN MỸ XUYÊN",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "1743",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2dcf4cf4-f4d8-40e3-9a4b-bc4ceec65002",
+		"name": "THỊ XÃ TỪ SƠN",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1730",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2de89dec-7fad-4f3a-88bd-6d146a4dc880",
+		"name": "THÀNH PHỐ PLEIKU",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1546",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2e2ef317-6c55-49d2-be8c-3f8a5dfea315",
+		"name": "HUYỆN ĐÔNG ANH",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1582",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2ea2bd9c-6ebb-4fde-88c1-ab085925aa6c",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "1909",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "2eb728e1-6126-408d-a57d-6487558f8815",
+		"name": "HUYỆN ĐÔNG HƯNG",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1715",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "2f23d3b9-b2bb-45a8-a5f8-c1b2ca1b3e93",
+		"name": "HUYỆN NINH SƠN",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "1855",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "302bc6ab-7f48-4e39-bc8f-34534b97269e",
+		"name": "QUẬN 4",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1446",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "30bf1e59-a7e4-4d44-b401-413f6165987f",
+		"name": "HUYỆN GIỒNG RIỀNG",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1832",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "30ecc68b-f1c3-4dd8-9c55-0a1a5c06ad36",
+		"name": "THỊ XÃ QUẢNG YÊN",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "2066",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "30f9bca8-223f-4ba5-8756-f844819ab1ab",
+		"name": "HUYỆN BẢO LẠC",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3130",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "310c3abd-edd4-487a-b9ff-b68af42244f1",
+		"name": "HUYỆN BẮC BÌNH",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1780",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3116fdea-6b65-4a68-8080-8355d3853ce3",
+		"name": "HUYỆN THANH THỦY",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "2237",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "31268d72-f194-4d34-b71d-4f4642b72b5e",
+		"name": "HUYỆN TRÀ CÚ",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "2033",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "312ca5ab-c998-4de8-8d31-a98ba3b1d782",
+		"name": "HUYỆN ĐAM RÔNG",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1919",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "312d9921-04fe-4b5c-8962-925d021054f6",
+		"name": "HUYỆN GIAO THỦY",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "3193",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3166637a-eac3-48da-824f-d59d49eaaefe",
+		"name": "QUẬN CẨM LỆ",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1531",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3240999c-daae-47ba-83e1-e258e92a260f",
+		"name": "QUẬN 12",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1454",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "32e04536-4f84-4e11-ac15-ec978258ce31",
+		"name": "QUẬN HỒNG BÀNG",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1589",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "33c573e1-4e89-467b-af46-0cf0183ddb26",
+		"name": "HUYỆN MƯỜNG TÈ",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "1980",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "34a01c71-80bf-477e-85b5-76d2fb2db814",
+		"name": "THÀNH PHỐ UÔNG BÍ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1686",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "34cfd3e3-689e-4077-8cc6-9220692deccc",
+		"name": "THÀNH PHỐ SÔNG CÔNG",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1684",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "353daac0-07b7-46af-ac09-ad754d5a8a06",
+		"name": "HUYỆN ĐẤT ĐỎ",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1690",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "355dddba-7d56-4a5c-be12-dc588f0e4916",
+		"name": "HUYỆN YÊN DŨNG",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1764",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "364c118f-76cc-42d5-a304-66186a210333",
+		"name": "HUYỆN KRÔNG BÔNG",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1789",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "365e5d3e-a614-4d2d-b1ee-17937feb400c",
+		"name": "HUYÊN YÊN LẠC",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "1734",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "36a888bb-a9f4-4129-9691-b5c0d887ce1c",
+		"name": "HUYỆN MƯỜNG KHƯƠNG",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "2171",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3787e4f2-718f-49fa-bf4e-58e7e4d0e898",
+		"name": "HUYỆN QUỲ HỢP",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1852",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "37fe9d3a-7eaf-44ab-a467-78af0a3743e4",
+		"name": "HUYỆN BÌNH GIA",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "3138",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "380979e9-19ba-4067-b57c-6d843919e44c",
+		"name": "HUYỆN LỆ THỦY",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "1857",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "384120fc-f754-4a2f-9e15-6d856e6e7e3c",
+		"name": "HUYỆN CÔN ĐẢO",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "2111",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "385587f9-c57d-45ff-89a8-55ddc9cc0ec2",
+		"name": "HUYỆN PHỤNG HIỆP",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "1824",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "386c3baf-42ae-406e-a8a1-2c0948b7d267",
+		"name": "HUYỆN LÂM HÀ",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1958",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3892995f-aaed-4529-8db0-5815e692aa91",
+		"name": "THỊ XÃ LA GI",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1778",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "38a807ba-4456-4fd4-b96e-9fee17980098",
+		"name": "HUYỆN SA THẦY",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "2205",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "39dc0475-aa4a-400f-b08c-ec60e236380f",
+		"name": "HUYỆN CƯ JÚT",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "3152",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "39f44969-d703-4ce4-9f9a-74747b766453",
+		"name": "THÀNH PHỐ BUÔN MA THUỘT",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1552",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "39f6b421-b4b8-4567-b9c4-524694ab3e0e",
+		"name": "THỊ XÃ HƯƠNG THỦY",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "1698",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3a00ec00-cea5-4781-a206-27c40a29e733",
+		"name": "HUYỆN KIM BÔI",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2146",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3a367e90-6c35-449c-8d57-103db37429fd",
+		"name": "THÀNH PHỐ PHÚC YÊN",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "2065",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3a510935-3aac-499d-8cb0-254624797500",
+		"name": "HUYỆN EA SÚP",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "2131",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3ac4b2e0-368b-4f0a-8c44-bae9c2de0c9d",
+		"name": "HUYỆN CHỢ ĐỒN",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "1913",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3b3d0ba9-7d09-4d11-b075-36771b0d96ad",
+		"name": "HUYỆN VŨ THƯ",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1716",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3bbe0d78-249c-45fd-9f10-7451f772f9a6",
+		"name": "QUẬN NAM TỪ LIÊM",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "3440",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3ca84743-b37d-4f71-988b-59a72d620cb0",
+		"name": "HUYỆN MAI CHÂU",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2163",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3d03dfd9-eafd-48b0-b72f-201a3a8d6363",
+		"name": "HUYỆN VĨNH THẠNH",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "2258",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3d292d11-33a2-46b7-a9a7-d04f85c472f0",
+		"name": "HUYỆN TÂN HỒNG",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "2013",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3d59635a-bc5b-43fe-8e40-7199c312299a",
+		"name": "THÀNH PHỐ THÁI BÌNH",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1599",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3e3e79fe-5084-4768-8926-f06a6594045d",
+		"name": "HUYỆN THUẬN CHÂU",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "2032",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "3e4e035b-7250-4d7b-90c9-80cede38b046",
+		"name": "HUYỆN SÌN HỒ",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "2006",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3e6bde31-8fc1-43b9-ba54-dc96e20e2aaa",
+		"name": "HUYỆN HOÀI NHƠN",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "1771",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "3e6fd2dc-24d7-4876-b95d-e6ba8dcb77fd",
+		"name": "HUYỆN MÊ LINH",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1581",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3f77af36-a1d6-4e6a-9070-18c330ba8bfd",
+		"name": "HUYỆN TÂN PHƯỚC",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "3275",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3f88d125-2b96-4ef8-972c-194ffd957110",
+		"name": "HUYỆN ĐỨC LINH",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1779",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "3f8c364b-dcc4-4691-a4cb-6e10a1ee5415",
+		"name": "HUYỆN HÀM THUẬN NAM",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1776",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "40470162-12b2-4948-8856-99896246a419",
+		"name": "HUYỆN BẮC HÀ",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "1892",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4051b947-0ba6-4a17-9eef-c8630fda9365",
+		"name": "HUYỆN LƯƠNG SƠN",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "1968",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "407ac92d-4d1f-44c3-bd81-283e6a34ba1a",
+		"name": "HUYỆN TIỂU CẦN",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "2020",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "40ae687b-4073-4783-ad18-1ddb65f8a1fd",
+		"name": "HUYỆN TƯ NGHĨA",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "1738",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "40b694be-0477-4fc6-ad36-03557eb681c3",
+		"name": "HUYỆN KBANG",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2144",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "40efbe31-0e72-49ed-88b4-7602c316acfa",
+		"name": "HUYỆN THỐNG NHẤT",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1705",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "417622a2-bf12-42bc-be0d-028a9ba9561e",
+		"name": "HUYỆN ĐÀ BẮC",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "1916",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4215f2af-a797-4348-8f64-feb00d4f2109",
+		"name": "HUYỆN QUAN SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "2000",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4349158d-b224-4260-a7a6-caf61ff0b34d",
+		"name": "THÀNH PHỐ DĨ AN",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1540",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "43cd2dc5-e0e2-4d57-8ff4-24dfe2914001",
+		"name": "HUYỆN MƯỜNG LA",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "3230",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "4472af0b-4b7f-435a-a9b3-57b51c0f5fce",
+		"name": "THÀNH PHỐ SẦM SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1712",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "44a74bfc-0b61-4040-817a-62952d831155",
+		"name": "HUYỆN TRƯỜNG SA",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "2117",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "44f78219-ab82-4e35-a472-313fcc817847",
+		"name": "HUYỆN VĂN LÂM",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "2046",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "454130fc-0668-48e6-9db6-a85483ec83ce",
+		"name": "HUYỆN ĐẮK GLEI",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "1921",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "456e01c3-ea2c-4045-8952-660e5bb129f1",
+		"name": "HUYỆN NĂM CĂN",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "1783",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4650ac4e-a088-4cfb-8be5-e6f2ee2785ee",
+		"name": "HUYỆN VĨNH LỘC",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1881",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4694447d-ed21-4d81-b530-201f9b7dbb3c",
+		"name": "THÀNH PHỐ HỘI AN",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1632",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "470b3d43-3d93-404c-a277-d08c9e560b80",
+		"name": "HUYỆN THẠNH PHÚ",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "2028",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "47266357-70a2-40e7-aa99-48bfa6154759",
+		"name": "HUYỆN YÊN THÀNH",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1846",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "47ae8a78-f0d8-4e56-9624-9d114f428524",
+		"name": "HUYỆN HƯƠNG SƠN",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "3201",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "481db552-27de-4bac-a359-68644314ad0b",
+		"name": "HUYỆN CHƯ PRÔNG",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1795",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4841c351-058e-4848-9a19-01cfc4e19fee",
+		"name": "THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "1665",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "485d9f98-1c9e-4881-8e18-7df10acc0983",
+		"name": "QUẬN 6",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1448",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4a3a276c-710a-4fe7-bfb4-67f26e83ef23",
+		"name": "HUYỆN THUẬN NAM",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "3302",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4aae6970-c61b-4ac2-b69a-8c70025423c8",
+		"name": "HUYỆN CAI LẬY",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "2084",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4ab2a64e-54f2-41de-bfdd-9ae561af9aa4",
+		"name": "HUYỆN HƯỚNG HÓA",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "1860",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4c0a29f9-7c86-4cf1-9680-cc98a5ae0212",
+		"name": "THÀNH PHỐ HUẾ",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "1585",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4c5aac36-2b6f-4da8-8d6f-fa0c8d3a773e",
+		"name": "HUYỆN NÚI THÀNH",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1987",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4cab9733-4cd8-4988-a55a-50616f7c262a",
+		"name": "HUYỆN NAM TRỰC",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "1983",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4cd6c6c7-d033-4f43-8444-a08d79a525ea",
+		"name": "HUYỆN KRÔNG PA",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2152",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4d10f8ac-a6f5-4c9d-a910-3683bc536fa3",
+		"name": "HUYỆN NÔNG SƠN",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2182",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4d29de69-e39a-4e23-8a1c-85cb3b764c11",
+		"name": "THÀNH PHỐ HÒA BÌNH",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "1678",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4d98bdb5-8b70-4f09-8305-58cf09bee39f",
+		"name": "HUYỆN BẮC QUANG",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "1893",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4e003cc7-1bd0-42d0-8ba1-877fccabacdb",
+		"name": "THÀNH PHỐ HẢI DƯƠNG",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1598",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4e0868de-40a4-4554-9de5-f1a0d135d28e",
+		"name": "HUYỆN GÒ DẦU",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1866",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4e39d8f4-cb23-489e-930f-c88c549256f3",
+		"name": "HUYỆN TRÙNG KHÁNH",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "2041",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4e450ff7-52c0-44af-9606-68851138e8d1",
+		"name": "THÀNH PHỐ YÊN BÁI",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "1674",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4e7b9e28-ab91-469c-a9c0-d270a5b8988c",
+		"name": "HUYỆN THANH TRÌ",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1710",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4e86cc98-36e0-4095-b256-27ab4ac1fad1",
+		"name": "HUYỆN LẠC THỦY",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2157",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4e9a54b4-2628-4adc-94ca-6d0816fa5d58",
+		"name": "THÀNH PHỐ BẮC GIANG",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1643",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "4ea4dc54-ccf2-4fac-815c-76d66676c6c1",
+		"name": "HUYỆN VĂN GIANG",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "2045",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "4f085fec-38a3-4cd1-a8c8-878be2c6c748",
+		"name": "QUẬN 1",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1442",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "50d593e5-7d12-492e-8e83-12ba7d72f43b",
+		"name": "HUYỆN VIỆT YÊN",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1763",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5103f89d-ef3f-4f85-b60e-c473bd9c7a71",
+		"name": "THÀNH PHỐ SÓC TRĂNG",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "1568",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "517408a6-3954-457b-8a70-bb15d114608a",
+		"name": "HUYỆN CAO PHONG",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2087",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "527181fd-fbb0-49eb-9cdd-b30d260f47e6",
+		"name": "HUYỆN THẠCH AN",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3289",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5274a29f-a56a-4016-85b7-e55f5880184c",
+		"name": "QUẬN PHÚ NHUẬN",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1457",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "52bb1b95-656b-441c-93e4-f98b49aecc42",
+		"name": "HUYỆN HOÀNG SU PHÌ",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "1945",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "536313a0-6eff-47ba-aa58-4ee6e030577d",
+		"name": "THỊ XÃ BA ĐỒN",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "1859",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "537caa08-79a3-49b5-a4e0-c4a7568f9db1",
+		"name": "THỊ XÃ HỒNG LĨNH",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "1814",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "53e83b90-077e-4bbc-a44c-409db4d5b298",
+		"name": "HUYỆN THANH BA",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "3290",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "55439989-c59a-419d-94a0-961b33c629d4",
+		"name": "HUYỆN NA HANG",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "1982",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5572f08d-49e8-421d-8413-a7b9525e7982",
+		"name": "HUYỆN CAM LỘ",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "1903",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "558efcaa-6a87-47ab-9c33-cb00453705cd",
+		"name": "THỊ XÃ BÌNH LONG",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1774",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "55983725-2b5e-4600-b0e3-fb64f619d439",
+		"name": "HUYỆN HÓC MÔN",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1459",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "56707aa2-384b-43db-bbeb-12784df112bb",
+		"name": "HUYỆN BA CHẼ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "3126",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5680f9f9-3197-4330-a5d0-c576b06ac1e6",
+		"name": "HUYỆN MỸ TÚ",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2173",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "56ba5142-2147-489d-9f44-07283866c667",
+		"name": "HUYỆN MÙ CĂNG CHẢI",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "1977",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "56dbb699-0f5a-4ee3-880a-8ec561dffaf0",
+		"name": "THỊ XÃ ĐÔNG TRIỀU",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "3185",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "56f1c8b3-92ba-478c-9f82-4b1545df02b5",
+		"name": "HUYỆN ỨNG HÒA",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1810",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "570845dd-e301-4b30-9e1e-9efa2a27e419",
+		"name": "HUYỆN NGỌC LẶC",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1874",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "57a9a2e2-5358-4229-bc71-4b5f865ef580",
+		"name": "THÀNH PHỐ HÀ TĨNH",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "1618",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "57d946c6-46d8-4d0d-b014-5b95768926c1",
+		"name": "HUYỆN BÌNH CHÁNH",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1533",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "58124897-8b76-4e65-b0f4-1d0ecf83d95a",
+		"name": "THỊ XÃ AYUN PA",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1798",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "587f5b3d-00a7-41ff-8fc3-03ee93344e0a",
+		"name": "HUYỆN VĨNH CỬU",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "2049",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5983bd58-ff68-43f5-99db-87c56935206f",
+		"name": "THÀNH PHỐ VĨNH YÊN",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "1578",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "59de84ee-2468-4730-8c8b-ceeff8342b9c",
+		"name": "HUYỆN CHỢ MỚI",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "1914",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "59e1f57f-64c7-492e-8095-f294947cc1d4",
+		"name": "HUYÊN TÂY SƠN",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "3279",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5a1fdb58-e886-40e5-b21c-63cbefae3283",
+		"name": "HUYỆN Ý YÊN",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "1841",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5a2a035c-8432-4ddc-b76f-2667979dc14a",
+		"name": "HUYỆN TÂN PHÚ ĐÔNG",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "2216",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5a625a59-54e0-4172-a3a0-d55f90cd3634",
+		"name": "HUYỆN CẨM THỦY",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "3147",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5b2da4ce-72c8-43c3-a0d9-28c3535013f6",
+		"name": "HUYỆN ĐẦM DƠI",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "1922",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5b39c4bb-601f-4f6e-b80a-a2c5612ef51f",
+		"name": "HUYỆN TÂY TRÀ",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "2222",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5b4daa67-16f9-4f75-a111-f10e7bb7ed13",
+		"name": "HUYỆN LÂM BÌNH",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "1957",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5b60d741-9a97-4af0-967f-522c1d4f4463",
+		"name": "HUYỆN PHƯỚC LONG",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "1998",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5b75513c-cc47-43dd-9717-cfd0df10ccf6",
+		"name": "HUYỆN ĐÌNH LẬP",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "3182",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5bb10af1-7360-4114-9ba8-2d584fec7d95",
+		"name": "HUYỆN LẠC DƯƠNG",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1956",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5bf464b7-7e50-4745-9366-4f1f5cd2375e",
+		"name": "HUYỆN TUY PHONG",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1781",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5bfdd143-11d4-4c1c-a02c-1cdca21fbfab",
+		"name": "HUYỆN THẠCH THÀNH",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1880",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5c2c42e4-2518-47ac-86ed-5147d622cfea",
+		"name": "HUYÊN GIANG THÀNH",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2134",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "5ca0d53f-2f4a-42ee-9dcc-65fc37d1a296",
+		"name": "QUẬN THANH KHÊ",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1527",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5d27c73d-4626-41e1-a7d8-e98e90a47285",
+		"name": "HUYỆN ĐỨC HÒA",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "1929",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5d9446ba-851e-4f13-9b41-ea54928eaaff",
+		"name": "THÀNH PHỐ CAO LÃNH",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "1564",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5d9fa864-918e-47b6-9113-43eb5828fbdd",
+		"name": "HUYỆN KRÔNG NĂNG",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1787",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "5f4d0d89-c759-4eaa-91aa-982e3ed5a1f1",
+		"name": "HUYỆN THANH LIÊM",
+		"province_id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"ghn_id": "2027",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "600c766b-ca18-44cd-9992-a98bfb2870ea",
+		"name": "HUYỆN KRÔNG A NA",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1884",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "609a9af6-683e-4f71-944e-e03fe1e72f7e",
+		"name": "THÀNH PHỐ BẮC KẠN",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "1640",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "60a6f16e-904b-4de1-98bc-c9ef19aed62f",
+		"name": "HUYỆN QUỲNH PHỤ",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1868",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "61e62953-b502-4971-8b95-e80da22070c8",
+		"name": "HUYỆN KON RẪY",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "2148",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "623f87d8-bcda-49dd-99fc-138126f0e329",
+		"name": "QUẬN NGŨ HÀNH SƠN",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "1529",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "62529e4c-6722-4ccb-a4a6-e35e8721bf12",
+		"name": "HUYỆN CHIÊM HÓA",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "3157",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "62c48ac5-e3f6-4cf7-b182-6f183881dbc2",
+		"name": "THỊ XÃ KIẾN TƯỜNG",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "3329",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "634cf0eb-9dc8-422c-b8f0-3071dd49c7db",
+		"name": "HUYỆN SỐP CỘP",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "3266",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "63c84ba8-d67c-48b6-8853-7a6ab1c23fd3",
+		"name": "THỊ XÃ TRẢNG BÀNG",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "2035",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "63f3abd8-cef4-4661-9e17-6beab0a9b1d1",
+		"name": "THỊ XÃ NINH HÒA",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "2061",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "650011ef-94a5-4b18-b46b-f93c01574262",
+		"name": "THI XÃ PHÚ THỌ",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "2064",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6529d05f-89ce-4ff7-a337-defdc97fbe51",
+		"name": "HUYỆN PHÚ RIỀNG",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "3444",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "654c921e-f06b-440c-8dbe-4d7987234a3d",
+		"name": "HUYỆN GIA LỘC",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1934",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "65642670-3234-4127-9a4b-79da47d5619c",
+		"name": "HUYỆN HẢI HẬU",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "1840",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "656b4f02-fb07-417c-9864-a67853aae55e",
+		"name": "HUYỆN PHÚ GIÁO",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1992",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "65efdffe-af90-4c65-9220-09a5b0efc783",
+		"name": "QUẬN 7",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1449",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "662766d7-aeb5-4787-8e22-8570b7ecac77",
+		"name": "HUYỆN CÀNG LONG",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "2086",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6681d0d1-60fe-4d36-8b5a-039d22c91ef4",
+		"name": "HUYỆN TÂN KỲ",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1845",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "66994ef3-5868-4b2e-b6f7-56073f006a99",
+		"name": "HUYỆN ĐOAN HÙNG",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "1925",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "66eb83fd-4584-4a5a-bc32-8cc36f997188",
+		"name": "HUYỆN CHƯ SÊ",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1796",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "67702b4a-4779-4ee1-821a-dce893bf0c8a",
+		"name": "HUYỆN LAI VUNG",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "1725",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "67eb99ff-1da9-4b12-84be-7e02faee1443",
+		"name": "HUYỆN THÁP MƯỜI",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "2030",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "684df216-73f5-4023-b840-8072fff86d3e",
+		"name": "QUẬN TÂN PHÚ",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1456",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "68abfce8-9d70-438a-ab9a-0b6ea1f9a72f",
+		"name": "HUYỆN DƯƠNG MINH CHÂU",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1864",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "68ffe259-87b9-4c97-a9d6-6aeb359fb84a",
+		"name": "THÀNH PHỐ THUẬN AN",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1541",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6901873b-b328-43e4-a10a-f39808468fce",
+		"name": "HUYỆN NGHĨA ĐÀN",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1851",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6a01ac4e-9fda-400d-8946-8fd2cee4ba79",
+		"name": "HUYỆN TÂN HIỆP",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1831",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6a1da35a-61ca-4640-a983-342adbd2679e",
+		"name": "HUYỆN HÀ QUẢNG",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "1939",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6a52220b-dcb4-42f6-bfbc-355b83000a9a",
+		"name": "THỊ XÃ MỸ HÀO",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "1827",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6a59c8c8-1872-4acb-9157-c638bee57356",
+		"name": "HUYỆN SÓC SƠN",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1583",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6a5e5f32-06ed-467c-8be1-0d087db9ef5c",
+		"name": "HUYỆN QUẢNG HÒA",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3694",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6b57d17e-98e2-4e68-9967-5a9ec9911093",
+		"name": "HUYỆN AN BIÊN",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1833",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6b8a6f2a-ce7b-4c5a-9640-f401abd0dbcc",
+		"name": "HUYỆN ĐẠ TẺH",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "2106",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6c047ec7-5bef-4e9e-9789-761486c04e11",
+		"name": "HUYỆN BÌNH ĐẠI",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1895",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6c35c975-0fab-4011-ae89-e2a3e815511c",
+		"name": "HUYỆN PHÚ QUÍ",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "2116",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "6cd8f446-4957-4b30-b6e2-212ca950da81",
+		"name": "HUYỆN HÒN ĐẤT",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1830",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6d9dd9e8-2b69-4de2-adfa-97fac4407bef",
+		"name": "HUYỆN BA VÌ",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1803",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6efd971d-6534-4eb0-8012-b575ac2c3106",
+		"name": "HUYỆN KRÔNG BÚK",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "2150",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6f0c12b9-6023-4f99-9d34-fb5f90baeeec",
+		"name": "THÀNH PHỐ TAM ĐIỆP",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "1713",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6f11c470-a3d0-42c5-aefd-45bf9af24250",
+		"name": "HUYỆN PHÙ CỪ",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "2194",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6f130f7a-25ba-4189-9d92-f768a136f79d",
+		"name": "HUYỆN ĐẠ HUOAI",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "2104",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6f3afe2f-55c4-4f67-896d-188f31887ff2",
+		"name": "HUYỆN DUY XUYÊN",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1735",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6f709cf2-cfaa-4214-9c48-31632c5ed9fc",
+		"name": "HUYỆN NGHĨA HƯNG",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "3243",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6f8275f4-2f3b-4254-b6cc-cbc3d5c88d68",
+		"name": "HUYỆN THANH CHƯƠNG",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "3291",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "6fdcf97e-f553-4c39-aa6b-5fee069155ff",
+		"name": "HUYỆN TRẢNG BOM",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1691",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "6ff3d60a-4536-49cf-b53a-7ce3b3b2ad20",
+		"name": "HUYỆN NGỌC HIỂN",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "2186",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "7006b04f-da15-48e3-9c3d-96579dfd3eeb",
+		"name": "THÀNH PHỐ HÀ GIANG",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "1600",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7025c826-61f2-4c02-9f99-ac6cd2b4b862",
+		"name": "HUYỆN TUẦN GIÁO",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "2022",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "702631a2-a9cd-4168-afdf-6d638f9ba7b0",
+		"name": "HUYỆN MINH HÓA",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "3224",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "705743c6-3383-48f4-8ec8-245ec15af4f3",
+		"name": "HUYỆN SƠN TÂY",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "3270",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "70a071ad-2e11-435b-be35-def82b15ea2e",
+		"name": "HUYỆN MỸ ĐỨC",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1806",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "70b3dbdb-3b74-4944-a0dd-c05db69c192c",
+		"name": "THỊ XÃ TÂN CHÂU",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1755",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "71350f2f-7b2c-4f0c-ab79-9e8a6ce17935",
+		"name": "THÀNH PHỐ LẠNG SƠN",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "1642",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7141034d-ec3e-4ab5-aa89-09f7d39f835d",
+		"name": "HUYỆN HỒNG NGỰ",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "3200",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "717e6d41-49f5-428a-9acd-0d99419247f5",
+		"name": "HUYỆN TÂY GIANG",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2219",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "71cfdc4e-3914-46a7-94b9-1b0d168a16c4",
+		"name": "HUYỆN M'ĐRẮK",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "3418",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "72d71f0e-178b-4638-92d8-5225b5f88df6",
+		"name": "HUYỆN THUẬN BẮC",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "3301",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "74135405-8699-4ec4-96fb-f5f96a500c4a",
+		"name": "THỊ XÃ THÁI HÒA",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1850",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "74b88b8a-f0c8-483d-aa74-12173eab60a8",
+		"name": "HUYỆN KRÔNG NÔ",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "2151",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "75027dfd-80e2-477e-b189-c5d415568f55",
+		"name": "HUYỆN EA H'LEO",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1786",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "750962d4-e2f7-494a-a0b3-d538292a4478",
+		"name": "HUYỆN ĐỊNH QUÁN",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1700",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "756f082f-d631-4cfd-bab7-4d4186976e65",
+		"name": "HUYỆN BÌNH LIÊU",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1896",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7608eab1-ee1d-4f9f-9e49-7407ef634c31",
+		"name": "THỊ XÃ SƠN TÂY",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1711",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "76393fa1-d5cd-4bda-b3fd-b091e50ffe0e",
+		"name": "THỊ XÃ CAI LẬY",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "2055",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "7695b8c2-2e35-4607-b50d-809edd35f691",
+		"name": "HUYỆN TÁNH LINH",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "2012",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "777ab820-4d73-419e-991d-092e24417ee0",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "3155",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "77a337ae-c001-450a-9b3c-443fabd55b69",
+		"name": "HUYỆN XÍN MẦN",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "2052",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "7801b1f5-1191-4d43-b490-d6159eb6639d",
+		"name": "HUYỆN THANH MIỆN",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "3294",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "7860c87e-5df7-49cf-a8b0-51a31baa147f",
+		"name": "HUYỆN LƯƠNG TÀI",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1969",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7860da9e-f65b-4fb0-9e53-634d85301fa2",
+		"name": "HUYỆN QUANG BÌNH",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "2001",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7897f25d-3ce1-406a-b727-950d2f0a161f",
+		"name": "HUYỆN QUẾ SƠN",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2003",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "78aaf851-e723-47d4-9c93-4e71cc99c808",
+		"name": "HUYỆN NINH HẢI",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "1985",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "78bd26fb-9768-4630-87aa-1161516bf0f8",
+		"name": "HUYỆN CAM LÂM",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "1902",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "794e76ae-ef15-4736-95f6-fa33f3e78a50",
+		"name": "HUYỆN KRÔNG PẮK",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1954",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "797ed484-4831-4cc3-b935-c8528508e2da",
+		"name": "HUYỆN LỘC NINH",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1964",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7ba2bb6d-1717-4a58-849a-906e49d188a0",
+		"name": "HUYỆN ĐẮK GLONG",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "1791",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7c27bc85-6f86-4810-898a-215e25760590",
+		"name": "HUYỆN THỚI LAI",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "3300",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "7ceac1ac-184d-4e7c-b1ea-47fc9b93c0f9",
+		"name": "QUẬN 3",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1444",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7d30454b-2ac4-4673-91d6-9162d2ae07da",
+		"name": "HUYỆN TUYÊN HÓA",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "3286",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "7db6f282-6625-4286-a6f0-bed3185cb5f5",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "1911",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "7f8ed5b8-e37e-4198-a987-0ecb4231d70e",
+		"name": "HUYỆN HƯƠNG KHÊ",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "1812",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "7fe79d59-86c0-412a-9fa1-33a0611ebee5",
+		"name": "QUẬN BÌNH THẠNH",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1462",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8074064f-4c91-4e56-926c-90bda7f1e8c8",
+		"name": "HUYỆN BA BỂ",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "1887",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "80ea1065-eab9-4a28-84c5-fb4752ed87db",
+		"name": "THỊ XÃ BÌNH MINH",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "2054",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "81820584-2b60-48aa-8e65-87adce3c9cf5",
+		"name": "HUYỆN CHƠN THÀNH",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1772",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "820faa0a-a049-447e-95d6-e3fd2729d18b",
+		"name": "THÀNH PHỐ MÓNG CÁI",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1603",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "821ea2f2-f416-4ae3-90c7-d8da47e3847f",
+		"name": "HUYỆN HOẰNG HÓA",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1748",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "822419ac-780d-443b-a004-5c869d027765",
+		"name": "HUYỆN QUẢNG UYÊN",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3259",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "8291a30a-469a-4ac7-8041-e53786d97878",
+		"name": "THÀNH PHỐ ĐỒNG HỚI",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "1619",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "82a7531e-5c45-43b0-bec5-454152ccf49c",
+		"name": "THÀNH PHỐ CHÍ LINH",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "2056",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "83819c33-26fb-4619-a62f-0f0671ad2ff5",
+		"name": "THÀNH PHỐ CÀ MAU",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "1654",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "83894eba-ae01-4d9b-8b57-89d6b14ed31c",
+		"name": "HUYỆN CHỢ MỚI",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1757",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "83ce2e37-80b6-46f8-b5eb-cac65b62e474",
+		"name": "THỊ XÃ BẾN CÁT",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1696",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "83e4eee8-3882-4008-bb8f-90f2e8d1430a",
+		"name": "HUYỆN VŨ QUANG",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "3320",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "84b30903-1f06-4bdb-a71d-25607ec4d4a1",
+		"name": "HUYỆN YÊN KHÁNH",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "1714",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "85848d11-ee5e-4030-b2c9-407c335a3c36",
+		"name": "HUYỆN TRÀ ÔN",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "2034",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "85d04238-605c-4349-8bfa-6234d0d4d64d",
+		"name": "HUYỆN YÊN BÌNH",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "2266",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "85d05145-8160-4e1e-b2f2-c1067b1a1066",
+		"name": "HUYỆN CAO LÃNH",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "1724",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "863f8ced-3c9b-47ca-8da0-9034d3c06807",
+		"name": "HUYỆN HOÀNG SA",
+		"province_id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"ghn_id": "2112",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "86b27537-e6b9-4e34-ada2-6e72aa9db325",
+		"name": "HUYỆN CẨM KHÊ",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "1905",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "87b4ade5-c13a-41e9-80e7-d29314928db1",
+		"name": "THÀNH PHỐ TÂN AN",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "1554",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8840ac28-f705-41fa-af71-ab1660e07852",
+		"name": "HUYỆN VĨNH THUẬN",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2260",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "888652c8-2eff-4cb0-8cfb-d3601f5d6eae",
+		"name": "HUYỆN YÊN SƠN",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "1745",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "88c6e998-200f-442e-8de0-742a85424483",
+		"name": "THÀNH PHỐ BÀ RỊA",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1667",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "894d1052-1536-4870-9b42-711c7f97da7b",
+		"name": "HUYỆN PHÚ TÂN",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "1756",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8a2d8342-de19-4b4f-b1bf-1e1c7d6368f5",
+		"name": "HUYỆN TUY ĐỨC",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "2227",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "8a3106d3-f63a-496e-972e-783146b44ecc",
+		"name": "HUYỆN TAM DƯƠNG",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "2009",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8a9a74e7-aff3-401e-beed-43319b44b168",
+		"name": "HUYỆN HỒNG DÂN",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "1946",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8aa21fca-38c1-42e4-8e42-5aa441904bb8",
+		"name": "HUYỆN ĐƠN DƯƠNG",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1836",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8acb58f6-a4b1-471d-a567-8107ff42d6df",
+		"name": "THÀNH PHỐ PHAN THIẾT",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1666",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8adf2153-8ecf-410f-8623-e90719143a88",
+		"name": "HUYỆN CỒN CỎ",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "2110",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "8b50e4a2-35cf-4954-85c9-f996c34125af",
+		"name": "THỊ XÃ NGHĨA LỘ",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "2063",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "8b75d332-4821-40b9-9111-5a8575175ede",
+		"name": "HUYỆN NẬM NHÙN",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "1984",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8b82093e-f881-4e6b-a4b7-6279fb52909d",
+		"name": "HUYỆN KẾ SÁCH",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "1949",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8c99787d-2f96-411a-9ff8-e79b1ebf8c1e",
+		"name": "THÀNH PHỐ TRÀ VINH",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "1560",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8cf64138-bc53-4744-84ce-d0d8d38b7744",
+		"name": "HUYỆN ĐẮK TÔ",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "2121",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "8d91ce37-a51a-4229-91b4-71ded9389096",
+		"name": "QUẬN 11",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1453",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "8ee46044-5057-4038-acfb-033181a4ae7b",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1742",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "90275a65-0ffb-4d33-9ff2-f1ceb922ab5c",
+		"name": "HUYỆN BÌNH GIANG",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1816",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "90708b9b-6fe2-4a43-8e82-042742653597",
+		"name": "HUYỆN ĐẠI LỘC",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1917",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "90b98210-d411-43f9-b0ec-c124b82610e3",
+		"name": "HUYỆN CÙ LAO DUNG",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2093",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "90db90c3-f88c-43cf-b11d-703a34c2bf93",
+		"name": "QUẬN ĐỒ SƠN",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1707",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "913430e3-d2e8-4fb7-bc3e-f2b6a13e737f",
+		"name": "Đông Hưng",
+		"province_id": "f6118f56-996a-4662-a973-9c23eb58151e",
+		"ghn_id": "",
+		"viettel_id": "",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "917b4f70-4134-4f90-ad38-3988c2c6e7c8",
+		"name": "THÀNH PHỐ QUI NHƠN",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "1662",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "91dcdc65-0360-419e-9af7-f02147340279",
+		"name": "THÀNH PHỐ SA ĐÉC",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "1668",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9227e626-bb13-41ca-89b0-244c38805f44",
+		"name": "HUYỆN ĐÔNG SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1927",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "922d3452-94e4-43e1-9142-7b78dca4a621",
+		"name": "QUẬN BA ĐÌNH",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1484",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "923adb0f-d174-477f-a03e-2718e523c080",
+		"name": "HUYỆN GIỒNG TRÔM",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1937",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "92f58b78-7312-44ea-83af-63f7e485595d",
+		"name": "HUYỆN DẦU TIẾNG",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1746",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "930db315-5990-4fb5-b458-edf9ac702eeb",
+		"name": "THÀNH PHỐ PHỦ LÝ",
+		"province_id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"ghn_id": "1614",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9481ad00-ba8f-4914-8524-5fe698054ed8",
+		"name": "HUYỆN HÀM YÊN",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "1941",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "94b43e88-bb27-4841-aa90-a5ccec27d230",
+		"name": "HUYỆN TRẦN VĂN THỜI",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "2038",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "94f32799-59a0-474a-9ccb-ce8cc0f49195",
+		"name": "HUYỆN XUÂN TRƯỜNG",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "3323",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "94f90222-e7b8-4df3-91e2-c8863e0fea1d",
+		"name": "THÀNH PHỐ TÂY NINH",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1626",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "96784c86-76b4-4a71-bad3-e9f939e6bf13",
+		"name": "HUYỆN BÁC ÁI",
+		"province_id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"ghn_id": "3129",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9699458c-91b1-4d1e-b8d6-d3984cc4fe38",
+		"name": "HUYỆN PẮC NẶM",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "3249",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "97ebd994-59bb-48b2-b7b3-49abd944ad55",
+		"name": "HUYỆN NINH GIANG",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "3238",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "98079eb7-9879-4396-b26a-1b44272c90fd",
+		"name": "HUYỆN NHƠN TRẠCH",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1708",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9896be94-e4ec-493f-bdee-158879d67801",
+		"name": "HUYỆN NHƯ THANH",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "2190",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9a21a450-4b86-4a03-8537-7b5601fd4f57",
+		"name": "THÀNH PHỐ TAM KỲ",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1631",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9a2cb6e6-0a17-43c4-8780-cbf6c1a58f7b",
+		"name": "HUYỆN VÂN ĐỒN",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1920",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "9a704fa9-61bf-4cb8-9d57-f416997306b4",
+		"name": "THỊ XÃ HOÀNG MAI",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1849",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9a97677b-a6a2-48c1-8de5-a718a0b7a3c4",
+		"name": "THỊ XÃ ĐIỆN BÀN",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "1736",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9abcdd7e-0406-46fb-a172-ba5df45ac027",
+		"name": "QUẬN TÂY HỒ",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1492",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9b89f2c0-5b63-467e-866a-93876ff32068",
+		"name": "HUYỆN MINH LONG",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "2167",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9c064afb-8c11-4237-8fd4-6312dab3bb73",
+		"name": "HUYỆN GÒ QUAO",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2132",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9c4418a7-e9b3-41d4-9ef3-de5ee252dec0",
+		"name": "HUYỆN TƯƠNG DƯƠNG",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "3288",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9c92a6d2-a04d-44cc-a5e1-f332dc0b6fda",
+		"name": "HUYỆN PHONG THỔ",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "1989",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9d154811-255d-4467-9a4a-39c2b706e7fd",
+		"name": "HUYỆN DIỄN CHÂU",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1847",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9d1b372e-f12d-4251-bfb9-0365acc10981",
+		"name": "HUYỆN ĐẮK HÀ",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "1835",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9dc508f4-a4a5-4a4d-96fe-a11d8e9a628a",
+		"name": "HUYỆN QUỲ CHÂU",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "3261",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9e0f8890-988c-4bcc-9472-e9d33ea5a710",
+		"name": "HUYỆN PHONG ĐIỀN",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "3250",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9e227adf-d544-4979-9e31-ff0abd323ec4",
+		"name": "QUẬN BÌNH THỦY",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "1573",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9e58e999-5680-4e3c-8b5a-709245ee9ff9",
+		"name": "HUYỆN HÀ TRUNG",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1877",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9e6bba41-3d1f-4594-a29f-0bb4d8dc0dea",
+		"name": "HUYỆN LẬP THẠCH",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "1960",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9f0ff59a-f105-493a-af96-4c69650cc183",
+		"name": "HUYỆN THƯỜNG TÍN",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "3303",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9f1b43fd-82fc-4057-af71-bb03af7dbcbb",
+		"name": "HUYỆN TÂN HƯNG",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "3273",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "9f3fcdd8-1ce3-410e-b5d6-2e8ee0674035",
+		"name": "HUYỆN BÌNH SƠN",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "1898",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9f66deb2-5bb6-4f55-acd9-53e5242c2c40",
+		"name": "HUYỆN XUYÊN MỘC",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1699",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9f74582d-45ca-4038-bed4-80322a28d5cb",
+		"name": "HUYỆN PHÚ TÂN",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1883",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "9f7a48c9-b85f-4d9d-99fc-8eca53efe1cd",
+		"name": "HUYỆN LONG HỒ",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "1962",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "9fd6f4c6-f52f-4644-a487-bdeffc3fbd92",
+		"name": "HUYỆN KỲ ANH",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "1811",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a0134285-17b3-4d20-9323-8619c0c01430",
+		"name": "THÀNH PHỐ VỊ THANH",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "1653",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a0673f23-5007-4af7-88ca-575de1cb3eb7",
+		"name": "HUYỆN KIẾN XƯƠNG",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1951",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a0758a44-b2a1-4d81-bed1-ce869db6b018",
+		"name": "HUYỆN YÊN PHONG",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1768",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a0985bf6-4eb9-4eac-adb9-a542f07dccf4",
+		"name": "THÀNH PHỐ MỸ THO",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "1556",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a12c95e9-fcc8-4158-9fde-feea5317f725",
+		"name": "HUYỆN ĐỨC HUỆ",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "2129",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "a55679da-a177-40d6-a512-9333d31cfac0",
+		"name": "QUẬN HAI BÀ TRƯNG",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1488",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a5969aea-4049-4b9a-bd7c-fea3dbc460b2",
+		"name": "HUYỆN CẦU NGANG",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "1908",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a680384c-5e63-4b04-acf1-709291d31b0b",
+		"name": "HUYỆN SÔNG LÔ",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "3265",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "a69430a4-69e7-4daa-9be7-9e68e928573f",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "1740",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "a69988e7-68b8-4c53-88e9-49a302b35363",
+		"name": "HUYỆN THÔNG NÔNG",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3299",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "a6a8939e-d46e-4044-99c1-6a5e44a69d29",
+		"name": "HUYỆN HƯNG NGUYÊN",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1947",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a74f6d8b-2942-41e5-a286-6a95638d308a",
+		"name": "THỊ XÃ CỬA LÒ",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1842",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a7605fbe-04b6-43b9-b96c-7306957e90ac",
+		"name": "HUYỆN THẠNH TRỊ",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2238",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "a7d43e6c-7f02-4a38-a68b-f030e86bef7c",
+		"name": "HUYỆN CHƯ PĂH",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1801",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a8002613-d757-42cf-be1d-7cb7d4109dd5",
+		"name": "THÀNH PHỐ NGÃ BẢY",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "1823",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a866918a-e980-4d9b-b674-b18f5a19e709",
+		"name": "HUYỆN ĐẮK MIL",
+		"province_id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"ghn_id": "1792",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a87d723c-6139-47a6-980a-f3d2c3f5d23d",
+		"name": "HUYỆN DI LINH",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "3160",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "a8cb4839-7c60-408f-8da6-985c6ddcbc40",
+		"name": "HUYỆN THỚI BÌNH",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "1782",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a9170c95-ec78-4318-b864-b0eda6ba06f3",
+		"name": "HUYỆN HÀM THUẬN BẮC",
+		"province_id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"ghn_id": "1777",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "a9b3b0d3-70f1-46fc-9fe2-1d67668abfb1",
+		"name": "HUYỆN TRẦN ĐỀ",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2037",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "aa2315d1-ea60-4945-bd54-54ce3e10b806",
+		"name": "HUYỆN ĐỒNG HỶ",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1731",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "aa96b24f-7998-48a5-994d-43db06a44f14",
+		"name": "HUYỆN VĨNH TƯỜNG",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "1733",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "aac2a86d-c1ba-4b97-a2c2-37ab4f8652fd",
+		"name": "THỊ XÃ PHÚ MỸ",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1701",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "aac7fee8-9502-4f6d-bc62-03368c28cb3c",
+		"name": "HUYỆN CHƯƠNG MỸ",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1915",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "aad2f2fe-8680-435a-b483-f7152db86a1d",
+		"name": "HUYỆN DUYÊN HẢI",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "2103",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ab426886-0ee8-4163-b107-11f44cc9508b",
+		"name": "HUYỆN LONG ĐIỀN",
+		"province_id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"ghn_id": "1689",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ab6eb02d-b8bb-49eb-be28-4aecb480b1d0",
+		"name": "QUẬN HẢI AN",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1591",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ab9048d4-ba63-4862-96eb-fb66639337e4",
+		"name": "HUYỆN LONG PHÚ",
+		"province_id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"ghn_id": "2161",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "aba7aacf-aedc-49db-b1ac-e410adda334e",
+		"name": "THÀNH PHỐ BIÊN HÒA",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1536",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ac5412eb-ed91-4a8f-9bb8-ea4edf77b055",
+		"name": "HUYỆN BẮC SƠN",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "3134",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ad36a126-e556-41f7-9f70-d7728a7b088d",
+		"name": "HUYỆN VĨNH HƯNG",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "3315",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ad57f004-a540-414c-98e9-55e57823384c",
+		"name": "HUYỆN SƠN HÒA",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "2211",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ad958a5b-0473-4f4b-be3c-7b56dcdb644f",
+		"name": "HUYỆN VĂN CHẤN",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "2044",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ae099b7d-12bf-4896-8d06-5c782b2f3980",
+		"name": "HUYỆN GÒ CÔNG TÂY",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "1933",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ae4fc93d-c7cc-4ba4-bdf9-a9f83c8d5b37",
+		"name": "HUYỆN BA TƠ",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "3127",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ae9d6264-7424-40ad-9544-e5e67b944a56",
+		"name": "QUẬN NGÔ QUYỀN",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1587",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "af5451d4-6231-411b-a7b8-26ac718b0994",
+		"name": "THỊ XÃ BỈM SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1876",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "afc06749-1783-4b73-9645-2d0c241a18e9",
+		"name": "HUYỆN TÂN PHÚ",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1693",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "b0179700-1898-40cb-8369-b88b90f50c32",
+		"name": "HUYỆN PHÚ VANG",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "1749",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b0a0b1cf-c8ce-443c-82f7-30f850335bd8",
+		"name": "HUYỆN MAI SƠN",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "1971",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b0b10f73-28a2-4c42-87fb-60e952853616",
+		"name": "THÀNH PHỐ THỦ DẦU MỘT",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1538",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b0b82cf7-c810-4f0c-a263-6294c44091ef",
+		"name": "HUYỆN MƯỜNG CHÀ",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "1978",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b0ce839f-0881-48ca-8a06-ca90ece18500",
+		"name": "HUYỆN LẠC SƠN",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2156",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b0e4c288-9d20-453e-82f3-4cb45e399140",
+		"name": "HUYỆN THANH SƠN",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "2029",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b12e5ea6-3d88-46c5-9a50-fd1fe9d4602b",
+		"name": "QUẬN HOÀN KIẾM",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1489",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b164f6a1-da4e-4cca-8889-a0543b4eaf5e",
+		"name": "HUYỆN TIÊN DU",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1729",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b17ff0cf-bffb-45e0-821f-af2a6b2918a6",
+		"name": "HUYỆN MỘC CHÂU",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "1976",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b197e5e2-aaf4-46db-91c3-72bf94104691",
+		"name": "QUẬN DƯƠNG KINH",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1706",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b241b32b-2068-4625-8a42-15f1d3081545",
+		"name": "HUYỆN BẠCH THÔNG",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "1889",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b265ef06-0e49-4159-97b3-dfff6131c413",
+		"name": "QUẬN LÊ CHÂN",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1588",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b26ef691-c7d6-442a-9c09-93b765a03694",
+		"name": "HUYỆN VÂN CANH",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "3312",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b3b12cd9-ceb7-4e5a-a1f3-a9e9baca45b5",
+		"name": "THỊ XÃ SÔNG CẦU",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "1856",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b44691dc-05c4-4443-9c8b-160a7cdf7d42",
+		"name": "HUYỆN YÊN THẾ",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1765",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b44a99fe-9e46-4697-b31f-0aef5dbad742",
+		"name": "HUYỆN NA RÌ",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "3232",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b455481d-cdb1-4854-8d25-b9139421cd5e",
+		"name": "HUYỆN CON CUÔNG",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1853",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b47a124a-2c5d-430b-be57-21fca863d379",
+		"name": "THỊ XÃ AN NHƠN",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "1769",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b4b5ecc6-057c-46ef-a731-4f7ed65a704d",
+		"name": "HUYỆN ĐAN PHƯỢNG",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1804",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b4f1031d-8cb0-48f8-b363-17e1a9eb3538",
+		"name": "HUYỆN U MINH THƯỢNG",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2251",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b5f207de-2ed3-49c1-9ab5-940748863116",
+		"name": "HUYỆN NHƯ XUÂN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1871",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b627a300-d1b4-4fcb-95bf-2d171d77ef67",
+		"name": "HUYỆN GIA BÌNH",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1766",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b650fb8e-86fa-4262-9552-404473048e92",
+		"name": "HUYỆN NGỌC HỒI",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "2187",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b705f20d-9119-437b-bf1f-4b15c73b7868",
+		"name": "HUYỆN TRẠM TẤU",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "2248",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b70f5b87-e2d4-4c9a-8f3d-72be4b0f2522",
+		"name": "HUYỆN AN PHÚ",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1754",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b7d40a48-0bd0-486b-86ce-b7f8a04cfcbd",
+		"name": "HUYỆN THANH OAI",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1809",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b835d8a3-5df2-474a-8def-ba37df6d6667",
+		"name": "HUYỆN ĐẦM HÀ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "3180",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b8538ad5-9d75-4c44-aa00-f86269f14410",
+		"name": "THÀNH PHỐ BẠC LIÊU",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "1655",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b8edd67e-f0e7-4a9e-869c-9346c509154c",
+		"name": "HUYỆN CHƯ PƯH",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "2101",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b8fc1392-ac2c-4196-9e59-03f36c4d4b4a",
+		"name": "HUYỆN KIÊN LƯƠNG",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1950",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b933659a-3f93-4831-b045-1722c0655fb5",
+		"name": "HUYỆN NHO QUAN",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "3247",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b9a4d18b-7856-4d74-90a5-0acfc294900a",
+		"name": "THỊ XÃ HƯƠNG TRÀ",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "1697",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "b9a6f2e2-3646-4cba-9451-6c08c10bd444",
+		"name": "HUYỆN THẠCH HÀ",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "2024",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "b9bbafd0-1e6c-458d-9eda-6012f866372d",
+		"name": "HUYỆN TÂN LẠC",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "2014",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ba30f8a7-6a25-42dd-949c-ff0fb1ee9b55",
+		"name": "HUYỆN CÁT TIÊN",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "3146",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ba7c93a9-3101-4218-93ab-9bd09f4c43af",
+		"name": "HUYỆN VĨNH BẢO",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1822",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bb147312-8ebc-4ecb-ba81-5d684dc7e6b0",
+		"name": "HUYỆN TÂN UYÊN",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "2017",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "bb5a3959-33ab-4613-b97d-5f322ed40f8a",
+		"name": "THÀNH PHỐ RẠCH GIÁ",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1570",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bc30d324-3cbd-4386-a497-5e1efd5378c4",
+		"name": "HUYỆN THỦY NGUYÊN",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1726",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bc3b740e-75ee-4c57-b4bc-24553f2c46b6",
+		"name": "HUYỆN A LƯỚI",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "1885",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bc4c5896-99ac-482c-9572-ce7e901d3199",
+		"name": "HUYỆN LÝ NHÂN",
+		"province_id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"ghn_id": "1970",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bc4cba48-5fe7-4347-80ef-0138d60aa78b",
+		"name": "HUYỆN YÊN LẬP",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "2268",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "bc6761b7-6671-40c2-a64c-98adad7827f4",
+		"name": "HUYỆN PHÚ LỘC",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "1882",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bcf594cc-f141-413f-9027-9481d22597c5",
+		"name": "HUYỆN TIÊN YÊN",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "2019",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "bda59ae5-d028-4a1a-a4d1-deb8ef36c1a1",
+		"name": "HUYỆN TỦA CHÙA",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "2021",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "bdaabe95-a1c7-43a9-8ac1-5f780f5d54dd",
+		"name": "THÀNH PHỐ NINH BÌNH",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "1615",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bdd91aba-9590-4264-9811-baff02b0e668",
+		"name": "HUYỆN LONG THÀNH",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1694",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "bfecc56f-242f-4482-a800-e648bde2d46d",
+		"name": "HUYỆN IA H'DRAI",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "3446",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "bfed97a6-01a3-4219-b249-0f74c6717c53",
+		"name": "HUYỆN BẮC TÂN UYÊN",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "3135",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c01c9cac-78f9-48e2-b22f-b6d837843af7",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "1719",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "c148efd2-f980-4b1a-9056-31b7dceab9bc",
+		"name": "HUYỆN QUẢNG ĐIỀN",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "3257",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c1535400-4303-434b-939f-1d6f40f168c1",
+		"name": "HUYỆN NGÂN SƠN",
+		"province_id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"ghn_id": "3242",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c16916e5-400c-4fbc-8c74-22fba834dc2a",
+		"name": "THÀNH PHỐ ĐÀ LẠT",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1550",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c2ced4c3-1ae5-4111-acf9-ef39a1a0f793",
+		"name": "HUYỆN TIÊN PHƯỚC",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2224",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c3765ad2-6777-4a50-bcc9-97d1e5160ef2",
+		"name": "HUYỆN VĨNH THẠNH",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "3317",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "c38b1599-7a4e-410f-aac5-0f10ee12f83f",
+		"name": "QUẬN THỐT NỐT",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "1576",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c3aa1079-c0e1-44fd-b3e0-1cd9d0bfd7d1",
+		"name": "HUYỆN BÌNH TÂN",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "2081",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c45ee394-3590-4d87-b863-baba57d6b776",
+		"name": "HUYỆN MỎ CÀY NAM",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1975",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c4c68e91-a4a3-470c-98ae-1b6e4880833b",
+		"name": "HUYỆN BÁ THƯỚC",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "2070",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c4e3ba33-5a70-4eb8-92db-59ed30ab5619",
+		"name": "HUYỆN NGA SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "3241",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c5580e7c-2f30-4d09-916c-7b346d132593",
+		"name": "HUYỆN CHI LĂNG",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "3156",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c558e4d9-4062-48ff-883e-d89b6165734e",
+		"name": "HUYỆN CAO LỘC",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "1904",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c594edee-6abc-4bf5-9161-ba7cfe5b9f88",
+		"name": "HUYỆN HẠ HÒA",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "1938",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c5b70aee-1d95-462e-bd36-4d6d8c8288be",
+		"name": "HUYỆN THANH HÀ ",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "3292",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c5f1522e-718f-43ce-bcae-029732f67adc",
+		"name": "THÀNH PHỐ HÀ TIÊN",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2058",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c5feed32-2c7e-4732-bd4f-b1b81e635824",
+		"name": "HUỴÊN TAM ĐẢO",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "3271",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c676e483-a593-4848-a146-3301ba71fd9c",
+		"name": "Bạch Vân",
+		"province_id": "0ecead28-06c7-4ff6-8519-458b831fc63f",
+		"ghn_id": "",
+		"viettel_id": "101",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "c680918c-e9d9-4090-b581-985b23083d89",
+		"name": "HUYỆN KIẾN THỤY",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "3203",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c6e43bc6-ac01-406b-90c8-87d4ef2ff82c",
+		"name": "HUYỆN BÙ GIA MẬP",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "3141",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c6ea4870-d1b8-479d-af02-118194788524",
+		"name": "HUYỆN CẦN ĐƯỚC",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "1906",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c70181b6-e38a-43f1-a09e-81d577da6699",
+		"name": "QUẬN 9",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1451",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c708d373-b784-49b8-b1e3-a003809005a4",
+		"name": "HUYỆN KIM BẢNG",
+		"province_id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"ghn_id": "1952",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c792f519-37c9-4ec8-a518-19649142eed2",
+		"name": "HUYỆN ĐA KRÔNG",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "2105",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c7ea8c50-bf34-433e-9153-c3cca8c2bdb2",
+		"name": "HUYỆN QUẢNG TRẠCH",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "3258",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c841ea7f-f6e4-4f59-b932-41ed8f3d9cd6",
+		"name": "HUYỆN ÂN THI",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "1825",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c881bc85-7a6a-465b-b1e6-2d148ad12179",
+		"name": "HUYỆN THẠNH HÓA",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "3293",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c8ddd84f-1f49-45ed-910d-95f324400821",
+		"name": "HUYỆN HẢI HÀ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1940",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "c8f0b910-3a0e-4696-a386-cf6778d40ab1",
+		"name": "HUYỆN TRÀ BỒNG",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "3304",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c91a17a1-8eaf-4d8c-8eb6-686a6d569cd3",
+		"name": "HUYỆN THỌ XUÂN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1873",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "c95e83ae-69c3-419a-a066-c7560fee9060",
+		"name": "HUYỆN SÔNG HINH",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "2206",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c999422e-bdd1-4cd7-95ce-9838ed912de5",
+		"name": "HUYỆN BÙ ĐỐP",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "3140",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c9afff40-a2ea-4d4b-9cf0-5793a0845e15",
+		"name": "THỊ XÃ KỲ ANH",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "3441",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "c9e463f3-242b-48ec-856c-339e50a8d7af",
+		"name": "HUYỆN PHONG ĐIỀN",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "2193",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "cc23fd0f-e564-4f4b-aca5-5871fecdb23f",
+		"name": "HUYỆN PHÙ YÊN",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "1996",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "cd706ddd-5b72-460a-a4b7-6fa3357cfee9",
+		"name": "THÀNH PHỐ ĐÔNG HÀ",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "1620",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ce1cf8ba-6312-4747-877c-d429bcd7542e",
+		"name": "HUYỆN TÂY HÒA",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "3278",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "cedd1e8a-a7fa-4eed-b19f-ddadbfb0e30e",
+		"name": "THỊ XÃ QUẢNG TRỊ",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "1621",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "cf536484-ac36-4d84-85a8-4dcf87ebe299",
+		"name": "HUYỆN AN LÃO",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1820",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "d01b38a4-0fec-4b60-8534-30a381df2749",
+		"name": "HUYỆN TIÊN LÃNG",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "1821",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d029d967-4984-4cff-a52b-478e063ed308",
+		"name": "HUYỆN LỘC HÀ",
+		"province_id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"ghn_id": "3220",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d036a93b-6887-40e3-afde-e0e2b75a70fe",
+		"name": "HUYỆN TRỰC NINH",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "3308",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d03f339f-5eeb-4269-a039-a9af2f94c5f1",
+		"name": "HUYỆN LẮK",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "3217",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d04575c3-faad-46e3-b0e1-33b3e897474f",
+		"name": "HUYỆN BẮC MÊ",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "2075",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d0768123-4ca0-4ded-af9e-a86714b19579",
+		"name": "HUYỆN NHÀ BÈ",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1534",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d0d5f3a6-1f7d-4ce6-b02b-28d70062d53b",
+		"name": "HUYỆN TỨ KỲ",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "3287",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d0da608a-eada-44ef-95af-daa8055d6ac9",
+		"name": "HUYỆN GIA LÂM",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1703",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d180c305-6adb-4deb-9ffe-1ed7bf901ebd",
+		"name": "HUYỆN BA TRI",
+		"province_id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"ghn_id": "1888",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d1cd19cd-cd8a-4af3-99f1-998b5715dc84",
+		"name": "THỊ XÃ GIÁ RAI",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "1935",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d383bf73-179e-4ade-aa39-604e93952965",
+		"name": "HUYỆN MƯỜNG NHÉ",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "1979",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d4402d63-0cac-4a98-a5a5-4b300ee91511",
+		"name": "HUYỆN QUẾ PHONG",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "3260",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d4903626-c227-4ef2-a622-363e47a7581c",
+		"name": "QUẬN BÌNH TÂN",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1458",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d4dc69f5-1acc-463a-a634-ac75890b774d",
+		"name": "HUYỆN CHÂU THÀNH",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1718",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "d5326efe-645b-4d3f-b5c8-6ab98cd08f9d",
+		"name": "HUYỆN ANH SƠN",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1844",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d5a1498a-fbc5-462f-a5ea-68bcc2ee8b73",
+		"name": "HUYỆN DIÊN KHÁNH",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "1739",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d5d228c7-195a-4d28-9b70-95cf60e3ca55",
+		"name": "THÀNH PHỐ HẠ LONG",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "1604",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d66be2d7-853c-4b7b-bfc1-8a60ca5f85f5",
+		"name": "THỊ XÃ DUYÊN HẢI",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "3443",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d6e4f854-cb03-4d20-972c-3b8fa0da4a6e",
+		"name": "HUYỆN NAM ĐÀN",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "3233",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d6fd721a-3402-4592-aa7d-63d967cf7735",
+		"name": "THÀNH PHỐ QUẢNG NGÃI",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "1630",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d7cab28b-4863-4cbf-a481-cb65729cf2ef",
+		"name": "HUYỆN BÌNH LỤC",
+		"province_id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"ghn_id": "1897",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d7da1070-ed46-4ef8-98d2-0269e62a9aa1",
+		"name": "HUYỆN HÒA BÌNH",
+		"province_id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"ghn_id": "1723",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d822ce47-25b5-4503-b1a7-41995542a18d",
+		"name": "HUYỆN AN MINH",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "3125",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d875427c-6426-4f7b-ad4d-a14d53c772f8",
+		"name": "HUYỆN HƯNG HÀ",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1867",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d935d9dd-8d75-43f5-b446-e6fecfac5a16",
+		"name": "QUẬN HÀ ĐÔNG",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1542",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d96419b8-be3e-4085-bc52-f15059694bb1",
+		"name": "HUYỆN VĂN BÀN",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "2043",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "d9826fe7-c744-4c4a-bba5-a550bc689cce",
+		"name": "HUYỆN ĐIỆN BIÊN ĐÔNG",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "2123",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d98e6093-b623-42e3-97b8-fc120b8691d1",
+		"name": "HUYỆN PHÚ THIỆN",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1797",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "d9a42947-7f30-48b5-b0db-a1c8b71d4e40",
+		"name": "HUYỆN BẢO LÂM",
+		"province_id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"ghn_id": "1839",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "d9d6f7b7-df2d-4897-9db4-a1fc256b6269",
+		"name": "HUYỆN HỮU LŨNG",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "1948",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "da0bd9cc-dc1c-4794-93a8-aa9cfae4c1e9",
+		"name": "HUYỆN BÀU BÀNG",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "3132",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "db4ef7ba-e7a3-463a-86dd-554cb98d68eb",
+		"name": "HUYỆN CẨM MỸ",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1702",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "db56d3ee-0153-4f89-839a-f7fffe91510b",
+		"name": "HUYỆN VĂN YÊN",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "2047",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "db8d9a4d-e1df-4a29-8c13-7d4d020d6152",
+		"name": "THÀNH PHỐ HƯNG YÊN",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "1680",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "dbf19ee6-a01a-48f2-af70-cf2bf8f48d98",
+		"name": "THỊ XÃ AN KHÊ",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1800",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "dbffebdb-93fd-4c3a-aded-f38408af14c3",
+		"name": "HUYỆN NAM ĐÔNG",
+		"province_id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"ghn_id": "3234",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "dce96299-7712-428f-8ae6-936da12d4ba3",
+		"name": "HUYỆN THỦ THỪA",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "2031",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ddd265e7-dd39-4b41-b0a3-ba3f1cdeaec7",
+		"name": "HUYỆN CỦ CHI",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1460",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ddf47a72-431e-4e65-b007-a62dd23b3935",
+		"name": "HUYỆN TAM NÔNG",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "2011",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "de1d33c0-ebce-4fc7-918e-48a49b4965fb",
+		"name": "HUYỆN ĐÔNG HÒA",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "3184",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "de34414f-4b46-4b60-b413-3d162c4a3900",
+		"name": "HUYỆN NGUYÊN BÌNH",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3246",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "de4a7cd5-642f-43fc-aeab-7f769fd08a19",
+		"name": "HUYỆN CƯ KUIN",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "3153",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "de61ac58-546c-4f55-9b9c-d494750f801f",
+		"name": "HUYỆN TRÀNG ĐỊNH",
+		"province_id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"ghn_id": "2036",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "de8428f0-06b0-4ddf-81e3-217c3bbff0c7",
+		"name": "THỊ XÃ TÂN UYÊN",
+		"province_id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"ghn_id": "1695",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "defa9244-4f9a-4b7c-be90-490f7e00459f",
+		"name": "HUYỆN KHÁNH VĨNH",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "3213",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "df940cf8-d3bc-4e69-9eca-17926c412ccb",
+		"name": "HUYỆN SI MA CAI",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "2264",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "df9c5aab-3e3c-4f2e-b10c-66e38e8ea453",
+		"name": "HUYỆN VỊ THỦY",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "2048",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "dfa18df0-2a5c-401b-8dca-d377f704a449",
+		"name": "HUYỆN TU MƠ RÔNG",
+		"province_id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"ghn_id": "2225",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "dfb3e9c0-162c-48a1-8887-46d6134223dc",
+		"name": "THÀNH PHỐ TUYÊN QUANG",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "1601",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "dffd9b68-cc0c-445a-aa4a-025550a0667f",
+		"name": "THỊ XÃ BUÔN HỒ",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1788",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e0824f0e-71ba-41ac-82bd-de4f42d1de61",
+		"name": "HUYỆN QUAN HÓA",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1879",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e0e778dd-30aa-4503-8229-e8469fa9b85b",
+		"name": "HUYỆN KHÁNH SƠN",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "3212",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e227247f-0f5b-44d4-952c-a28a235441b7",
+		"name": "HUYỆN YÊN ĐỊNH",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1875",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e261f060-4966-49d9-9211-97ee6d9d1fa0",
+		"name": "THÀNH PHỐ TUY HÒA",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "1663",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e2772044-5df2-4131-b577-c2a00075cf00",
+		"name": "HUYỆN QUẢN BẠ",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "1999",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e2e4053e-e19d-4c49-b335-658d9d315778",
+		"name": "HUYỆN VŨNG LIÊM",
+		"province_id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"ghn_id": "2263",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e3e01d6b-4942-4256-afd0-8b7aadcf0ae5",
+		"name": "HUYỆN TÂN BIÊN",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1862",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e4055780-c8db-4c2f-a6ca-13932a719d49",
+		"name": "HUYỆN THANH BÌNH",
+		"province_id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"ghn_id": "2026",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e4138a05-fa90-4c06-bed2-52e99b6d381d",
+		"name": "HUYỆN PHÚ XUYÊN",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "3255",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e5c7c9c0-5dd9-4669-9d14-ca90211ed2c6",
+		"name": "HUYỆN CẦU KÈ",
+		"province_id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"ghn_id": "2091",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e5d4d138-f911-44af-833b-d40d62e10719",
+		"name": "HUYỆN THÁI THỤY",
+		"province_id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"ghn_id": "1869",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e6a1fa83-1184-4a42-a398-a92ba976d287",
+		"name": "THÀNH PHỐ LÀO CAI",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "1682",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e7d114e5-0ef0-45c1-9da3-ab1fd255900c",
+		"name": "HUYỆN LỤC NGẠN",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1966",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e84c952f-bdf6-4fa2-97ef-d5ae2af93c0f",
+		"name": "HUYỆN VỊ XUYÊN",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "2256",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e893df07-c0f5-468c-a263-225776b0718a",
+		"name": "HUYỆN HẢI LĂNG",
+		"province_id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"ghn_id": "2137",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e8a25ba8-fd35-4b87-9651-6e38a6312103",
+		"name": "HUYỆN QUẾ VÕ",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1728",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e8f964fa-3a19-4b80-81f0-c4e9e95c61ce",
+		"name": "HUYỆN BÌNH XUYÊN",
+		"province_id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"ghn_id": "1732",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "e93558bd-9933-41f0-9ccc-9f29e1b4f6e0",
+		"name": "HUYỆN TAM ĐƯỜNG",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "2010",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "e9789f12-c1e8-4eb2-a0e6-3fd7592f7921",
+		"name": "HUYỆN CƯ M'GAR",
+		"province_id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"ghn_id": "1785",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "ea0b7e66-3cf0-4ede-ba2e-ef0b1efc2d23",
+		"name": "HUYỆN TRẤN YÊN",
+		"province_id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"ghn_id": "2039",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "eac79238-9052-4fb9-8ed0-8374d575d984",
+		"name": "HUYỆN THIỆU HÓA",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "3298",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "eb15aef8-c05d-455a-a159-6e98f15d07bd",
+		"name": "HUYỆN HOÀNH BỒ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "3199",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "eb354fe3-f54f-4b87-b78d-d8ae9612c54b",
+		"name": "QUẬN BẮC TỪ LIÊM",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1482",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "eb549006-3d02-4efd-b827-27b6c870475d",
+		"name": "HUYỆN KỲ SƠN",
+		"province_id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"ghn_id": "1955",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ebc76b58-059d-492f-9c2c-bed12d71657d",
+		"name": "HUYỆN THĂNG BÌNH",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2239",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ec22b9b1-357c-4680-af27-0e8372e8414e",
+		"name": "HUYỆN HIỆP ĐỨC",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2139",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ec8e8100-47b9-4dd1-bcf8-70e40fa61251",
+		"name": "THÀNH PHỐ THÁI NGUYÊN",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1639",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ed74ebc4-ee6a-4fa9-a2cf-71d21009b085",
+		"name": "HUYỆN PHÚ BÌNH",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "1991",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ed951906-c747-4076-863f-19763d1a1aa0",
+		"name": "HUYỆN CHỢ GẠO",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "1741",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "edf6b1d3-9154-49dc-bfd1-34456b8bdbc2",
+		"name": "THÀNH PHỐ SƠN LA",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "1677",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ee1fcb17-ceff-4c01-8bd2-3e21b8f0e25d",
+		"name": "HUYỆN ĐIỆN BIÊN",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "1923",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "ee93e576-d005-43c0-8e98-e6dd15d52807",
+		"name": "HUYỆN BẾN CẦU",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1865",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "eea5fb9a-849b-48fb-9ff0-8eae599d1cb3",
+		"name": "HUYỆN KIM THÀNH ",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1953",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "eecb12d6-9a96-4d15-af06-99e7453c0405",
+		"name": "HUYỆN BẮC TRÀ MY",
+		"province_id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"ghn_id": "2078",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "eede7eba-574e-4d17-a49f-e3da65443dde",
+		"name": "HUYỆN ĐẢO CÁT HẢI",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "2108",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "eeec9e7e-eb41-46f3-aff7-7203b71df938",
+		"name": "HUYỆN MÈO VẠC",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "1973",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ef403041-8d3c-4a74-9e74-72732115c75d",
+		"name": "HUYỆN MỸ LỘC",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "1981",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ef8178a7-8356-4289-8a06-78ca2495a77c",
+		"name": "THỊ XÃ LONG MỸ",
+		"province_id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"ghn_id": "3218",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f00a8fca-70a8-40f4-bf56-43e93c7022f8",
+		"name": "HUYỆN HẠ LANG",
+		"province_id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"ghn_id": "3194",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f019b3ed-a45d-467a-bbf2-941fc9641a65",
+		"name": "HUYỆN SƠN HÀ",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "2210",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f03a9d08-4a79-4ed6-9075-89b7ecaf6fd6",
+		"name": "HUYỆN CÁI BÈ",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "1900",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f0e3a74f-dc08-4d22-b2fb-df2e549d26fa",
+		"name": "THỊ XÃ GÒ CÔNG",
+		"province_id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"ghn_id": "2057",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f0e53ae0-c241-4aae-bb1d-66e20139a275",
+		"name": "HUYỆN VÕ NHAI",
+		"province_id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"ghn_id": "2051",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f0ed3b05-005f-4b14-9c73-acd72d7630e0",
+		"name": "HUYỆN VỤ BẢN",
+		"province_id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"ghn_id": "3319",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f1827db0-19aa-4f44-8d2f-60559bb8d682",
+		"name": "HUYỆN TRIỆU SƠN",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "2249",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f1d2c2f3-9e45-4632-9de5-bc38767e60ab",
+		"name": "HUYỆN YÊN MÔ",
+		"province_id": "411221bc-527a-4467-8202-ad960a64c306",
+		"ghn_id": "3327",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f1d71730-44c1-4fdf-a6f8-58afe78c8a92",
+		"name": "THÀNH PHỐ VINH",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "1617",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "f208e21d-3422-49c6-8252-586d5d174081",
+		"name": "QUẬN LONG BIÊN",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1491",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f23c75b2-e0ff-4aaa-ad3e-5aadf317c8f5",
+		"name": "QUẬN GÒ VẤP",
+		"province_id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"ghn_id": "1461",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f289481a-fc8b-42f6-8bd3-44e86aa0a4f6",
+		"name": "THÀNH PHỐ VIỆT TRÌ",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "1602",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f2a4b11a-88fe-45d3-a646-de683d640f60",
+		"name": "HUYỆN CÔ TÔ",
+		"province_id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"ghn_id": "2109",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "f2ab3d80-8680-410b-8fdc-df6b27870634",
+		"name": "HUYỆN TÂN THẠNH",
+		"province_id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"ghn_id": "3276",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f2c5d795-4ced-488e-9b89-6d2fa2b84f7c",
+		"name": "THÀNH PHỐ BẮC NINH",
+		"province_id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"ghn_id": "1644",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f2f8d3dd-f5a4-499e-b2cf-a3b0c5d188c6",
+		"name": "THỊ XÃ KINH MÔN",
+		"province_id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"ghn_id": "1818",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f38911c8-2bdc-402c-a45d-3fab1a826475",
+		"name": "HUYỆN YÊN MINH",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "2053",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f389f1d8-db95-4339-ace4-346755471c64",
+		"name": "THÀNH PHỐ LAI CHÂU",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "1675",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f42c226b-a50d-4d0e-8d48-4af6c3e3034c",
+		"name": "THÀNH PHỐ LONG XUYÊN",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1566",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f5079d68-bea8-4cdd-a98f-fa5035d12731",
+		"name": "HUYỆN MỘ ĐỨC",
+		"province_id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"ghn_id": "3226",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f51aa14d-4f87-4954-889f-ec1a90aceeff",
+		"name": "HUYỆN THOẠI SƠN",
+		"province_id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"ghn_id": "1750",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f5337ff7-65e1-4ce4-8839-212198da647a",
+		"name": "HUYỆN BÁT XÁT",
+		"province_id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"ghn_id": "1744",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f55e9fae-1460-434c-bfe7-637ab31ed98f",
+		"name": "HUYỆN THAN UYÊN",
+		"province_id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"ghn_id": "2025",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f55f8537-acec-4c30-a776-f024f6131e8c",
+		"name": "THÀNH PHỐ ĐIỆN BIÊN PHỦ",
+		"province_id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"ghn_id": "1676",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f562402f-c934-4184-b87b-413c9923c909",
+		"name": "HUYỆN XUÂN LỘC",
+		"province_id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"ghn_id": "1704",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f57e589e-73ee-4ab2-abeb-fb21ae45675a",
+		"name": "HUYỆN TÂN CHÂU",
+		"province_id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"ghn_id": "1863",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f6012a63-fb87-4e72-84ef-b1be6db43704",
+		"name": "HUYỆN U MINH",
+		"province_id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"ghn_id": "2042",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "f6e0ed1e-dd56-4d05-8c2b-75da84f37bcf",
+		"name": "QUẬN THANH XUÂN",
+		"province_id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"ghn_id": "1493",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f8302ccf-ecdc-438a-ae06-3b77818e6ef2",
+		"name": "HUYỆN NÔNG CỐNG",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "2181",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "f85f3c42-8b3e-41b3-a14e-9aba6390592e",
+		"name": "HUYỆN KỲ SƠN",
+		"province_id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"ghn_id": "3211",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "f887f896-d2f9-4e57-95c0-445f23ba31e4",
+		"name": "HUYỆN VẠN NINH",
+		"province_id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"ghn_id": "1829",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "f96c4b22-9a0c-4b0f-ba5e-0fbf3b6c5606",
+		"name": "HUYỆN ĐỒNG VĂN",
+		"province_id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"ghn_id": "1928",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fa0c6a3a-39f5-4329-bec8-9fa473e61926",
+		"name": "THỊ XÃ DUY TIÊN",
+		"province_id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"ghn_id": "1802",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fafb22f4-d910-4bdd-aa9b-51732499a6c7",
+		"name": "HUYỆN KIÊN HẢI",
+		"province_id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"ghn_id": "2113",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "fb620f0e-1746-49d6-a6a4-38a5056b6c27",
+		"name": "QUẬN NINH KIỀU",
+		"province_id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"ghn_id": "1572",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fbe0515d-46f6-4f49-a038-325fe3bbeb0f",
+		"name": "HUYỆN YÊN MỸ",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "1828",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fc22d0f4-284c-42d8-ab13-e2c1fc396c70",
+		"name": "HUYỆN TAM NÔNG",
+		"province_id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"ghn_id": "3272",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "fd1e9907-a5cf-4d26-948f-4df31e6cd68d",
+		"name": "HUYỆN ĐẢO BẠCH LONG VĨ",
+		"province_id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"ghn_id": "2107",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "fd5d8161-4107-4cb8-ae14-341d74f0b058",
+		"name": "HUYỆN SƠN DƯƠNG",
+		"province_id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"ghn_id": "3267",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "fd9d2b4a-5461-40f7-8c07-b70a35489b6d",
+		"name": "HUYỆN BÙ ĐĂNG",
+		"province_id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"ghn_id": "1899",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fe6a0e08-3cd8-4898-8600-3749cf529dda",
+		"name": "HUYỆN KIM ĐỘNG",
+		"province_id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"ghn_id": "1717",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fe93291b-bebc-4bbd-ab67-841917a27938",
+		"name": "HUYỆN QUỲNH NHAI",
+		"province_id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"ghn_id": "2204",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "fe9aa00e-06af-43cd-941d-96d4c7ed870a",
+		"name": "HUYỆN LỤC NAM",
+		"province_id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"ghn_id": "1965",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "fee11e7e-d92f-4acd-ab6b-e7246ef4d999",
+		"name": "HUYỆN IA GRAI",
+		"province_id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"ghn_id": "1793",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ff56b920-9962-4d04-93f3-6623c07686c9",
+		"name": "THÀNH PHỐ THANH HÓA",
+		"province_id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"ghn_id": "1616",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ff6974c4-83b0-4f85-b7ec-b6915f05b7b4",
+		"name": "HUYỆN HOÀI ÂN",
+		"province_id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"ghn_id": "2140",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:34"
+	},
+	{
+		"id": "ffb3052c-2e74-476b-9c81-42b130656896",
+		"name": "HUYỆN BỐ TRẠCH",
+		"province_id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"ghn_id": "1858",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	},
+	{
+		"id": "ffb3b08b-28f3-4a4c-b214-f68f74b31df8",
+		"name": "HUYỆN PHÚ HÒA",
+		"province_id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"ghn_id": "1993",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:39:35"
+	}
+]

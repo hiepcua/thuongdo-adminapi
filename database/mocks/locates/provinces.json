@@ -1,0 +1,587 @@
+[
+	{
+		"id": "03024e57-ebba-4eda-9a0e-6fe12189454d",
+		"name": "Quảng Trị",
+		"country": "vi",
+		"ghn_id": "238",
+		"viettel_id": "36",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "0393f8f6-9b90-4c14-902a-af3376c46f4e",
+		"name": "Thái Nguyên",
+		"country": "vi",
+		"ghn_id": "244",
+		"viettel_id": "25",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "055d2b04-75e4-4661-ae28-9fa1f5dad81a",
+		"name": "Thừa Thiên - Huế",
+		"country": "vi",
+		"ghn_id": "223",
+		"viettel_id": "37",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "05aaf052-0226-4262-8a26-8e5d130cf416",
+		"name": "Bắc Kạn",
+		"country": "vi",
+		"ghn_id": "245",
+		"viettel_id": "21",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "0c1b2934-4793-41d3-8908-7f9a4f07f321",
+		"name": "Gia Lai",
+		"country": "vi",
+		"ghn_id": "207",
+		"viettel_id": "44",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "0ecead28-06c7-4ff6-8519-458b831fc63f",
+		"name": "Quảng Đông",
+		"country": "cn",
+		"ghn_id": "",
+		"viettel_id": "101",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "0f80b9f2-e60f-4810-a93a-587bb0150aa6",
+		"name": "Ninh Thuận",
+		"country": "vi",
+		"ghn_id": "261",
+		"viettel_id": "47",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "136980a4-1c9a-4ff8-8799-09c780c21894",
+		"name": "Cao Bằng",
+		"country": "vi",
+		"ghn_id": "246",
+		"viettel_id": "19",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "14ebd40b-1c70-4205-8630-b2210ccc20ab",
+		"name": "Quảng Nam",
+		"country": "vi",
+		"ghn_id": "243",
+		"viettel_id": "38",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "15f79256-20af-4da9-99bc-79765ad069e4",
+		"name": "Nghệ An",
+		"country": "vi",
+		"ghn_id": "235",
+		"viettel_id": "33",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "17332b53-7581-47f0-9246-45ece17d0792",
+		"name": "Bình Thuận",
+		"country": "vi",
+		"ghn_id": "258",
+		"viettel_id": "52",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "173caffd-af09-46e5-8e86-b0f598860cad",
+		"name": "Bắc Ninh",
+		"country": "vi",
+		"ghn_id": "249",
+		"viettel_id": "11",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "1cf3b490-2267-4b55-9555-4989c8df1729",
+		"name": "Đà Nẵng",
+		"country": "vi",
+		"ghn_id": "203",
+		"viettel_id": "4",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "1cf975a7-1286-4c8d-8dea-65d0572e288e",
+		"name": "Điện Biên",
+		"country": "vi",
+		"ghn_id": "265",
+		"viettel_id": "64",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "1ddc6430-8154-4851-ab91-1e1bb853358b",
+		"name": "Tuyên Quang",
+		"country": "vi",
+		"ghn_id": "228",
+		"viettel_id": "23",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "206a9b5e-83ed-4eae-9a9f-6f49afab5892",
+		"name": "Lâm Ðồng",
+		"country": "vi",
+		"ghn_id": "209",
+		"viettel_id": "46",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "2099642c-565e-4c2a-9564-d98337926ee0",
+		"name": "Bình Ðịnh",
+		"country": "vi",
+		"ghn_id": "262",
+		"viettel_id": "40",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "2297428d-ece7-4223-94a3-a132a07750b0",
+		"name": "Hải Phòng",
+		"country": "vi",
+		"ghn_id": "224",
+		"viettel_id": "3",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "2384bf01-5017-4345-ae93-2f2a088ce6fb",
+		"name": "Vĩnh Phúc",
+		"country": "vi",
+		"ghn_id": "221",
+		"viettel_id": "10",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "361c6656-989c-4f9b-a0ba-f2f77090de81",
+		"name": "Tiền Giang",
+		"country": "vi",
+		"ghn_id": "212",
+		"viettel_id": "6",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "385de895-e574-4228-a9f0-821a24ee4870",
+		"name": "Quảng Ngãi",
+		"country": "vi",
+		"ghn_id": "242",
+		"viettel_id": "39",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "3a35a76f-362f-4a6b-adac-0aae2afb32fb",
+		"name": "Thái Bình",
+		"country": "vi",
+		"ghn_id": "226",
+		"viettel_id": "16",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "3b0c3df3-a316-4abb-9c6e-6e27e4216951",
+		"name": "Bến Tre",
+		"country": "vi",
+		"ghn_id": "213",
+		"viettel_id": "58",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "411221bc-527a-4467-8202-ad960a64c306",
+		"name": "Ninh Bình",
+		"country": "vi",
+		"ghn_id": "233",
+		"viettel_id": "17",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "47e2a5d4-44b5-4d28-ae27-9531188629b9",
+		"name": "Long An",
+		"country": "vi",
+		"ghn_id": "211",
+		"viettel_id": "54",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "48f41171-e524-4b98-9b43-802dacef0261",
+		"name": "Lạng Sơn",
+		"country": "vi",
+		"ghn_id": "247",
+		"viettel_id": "22",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "50a33a30-2246-4ceb-bf51-12b9074c968e",
+		"name": "Quảng Ninh",
+		"country": "vi",
+		"ghn_id": "230",
+		"viettel_id": "28",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "52c3d7c6-008e-43d7-984e-c02ba1bf485a",
+		"name": "Bà rịa - Vũng tàu",
+		"country": "vi",
+		"ghn_id": "206",
+		"viettel_id": "53",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "5c8c099c-e7ad-4351-8b09-d2df15f2a068",
+		"name": "Hà Nội",
+		"country": "vi",
+		"ghn_id": "201",
+		"viettel_id": "1",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "6f35f1f8-e18c-4998-a10e-7347bf71643f",
+		"name": "Thanh Hóa",
+		"country": "vi",
+		"ghn_id": "234",
+		"viettel_id": "32",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "776109ae-abfa-4bfb-9f81-254a7a533f6a",
+		"name": "Yên Bái",
+		"country": "vi",
+		"ghn_id": "263",
+		"viettel_id": "24",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "829f5330-af35-430c-ae33-f914b44e64a6",
+		"name": "Quảng Bình",
+		"country": "vi",
+		"ghn_id": "237",
+		"viettel_id": "35",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "837516a2-671d-4423-b2dc-e4e916224599",
+		"name": "Hải Dương",
+		"country": "vi",
+		"ghn_id": "225",
+		"viettel_id": "12",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "87d541c4-ee74-4c28-8b93-57660b45abb7",
+		"name": "Đồng Tháp",
+		"country": "vi",
+		"ghn_id": "216",
+		"viettel_id": "55",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "89d6fd41-9147-48b4-9ef9-7703655c0b7d",
+		"name": "Bạc Liêu",
+		"country": "vi",
+		"ghn_id": "253",
+		"viettel_id": "62",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "8b419e16-e6f4-4c1f-a920-8d25fa33391b",
+		"name": "Phú Thọ",
+		"country": "vi",
+		"ghn_id": "229",
+		"viettel_id": "26",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "8ded668a-d3f5-4d62-a243-552600b69436",
+		"name": "Lào Cai",
+		"country": "vi",
+		"ghn_id": "269",
+		"viettel_id": "20",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "91859389-b290-41f4-85b5-245329fd3b66",
+		"name": "Hậu Giang",
+		"country": "vi",
+		"ghn_id": "250",
+		"viettel_id": "8",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "92c711ef-a784-484d-9b43-16bd34ae1825",
+		"name": "Tây Ninh",
+		"country": "vi",
+		"ghn_id": "240",
+		"viettel_id": "49",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "9413ff3b-5e00-498d-9558-f18de288f71c",
+		"name": "Bắc Giang",
+		"country": "vi",
+		"ghn_id": "248",
+		"viettel_id": "27",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "99043ed6-a6c8-407f-8ae1-3d2cebc16cce",
+		"name": "Cần Thơ",
+		"country": "vi",
+		"ghn_id": "220",
+		"viettel_id": "5",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "a23f7440-81d2-4fd0-a654-207f2c5feb29",
+		"name": "Hưng Yên",
+		"country": "vi",
+		"ghn_id": "268",
+		"viettel_id": "13",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "af6bc988-7ca7-4143-8546-aa3ecb750b15",
+		"name": "Đăk Nông",
+		"country": "vi",
+		"ghn_id": "241",
+		"viettel_id": "9",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "bab6bb6f-6b3d-4a4d-adc0-c37bd18d44ba",
+		"name": "Hồ Chí Minh",
+		"country": "vi",
+		"ghn_id": "202",
+		"viettel_id": "2",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "bbcb59b1-fdbb-4b94-93a4-888d3584d577",
+		"name": "Sơn La",
+		"country": "vi",
+		"ghn_id": "266",
+		"viettel_id": "30",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "c0a79169-e0c9-4530-b799-6b87a79b656f",
+		"name": "Kon Tum",
+		"country": "vi",
+		"ghn_id": "259",
+		"viettel_id": "43",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "c181a464-217b-4095-b554-b8d5c11cd309",
+		"name": "Hòa Bình",
+		"country": "vi",
+		"ghn_id": "267",
+		"viettel_id": "31",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "c38cabfb-4d26-4100-bb8d-993861e65ffd",
+		"name": "Phú Yên",
+		"country": "vi",
+		"ghn_id": "260",
+		"viettel_id": "41",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "c4e996aa-eb73-46f8-8e9d-fd58476462a2",
+		"name": "Sóc Trăng",
+		"country": "vi",
+		"ghn_id": "218",
+		"viettel_id": "61",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "cb088594-32db-46d0-a093-6fc2deda25ae",
+		"name": "Bình Phước",
+		"country": "vi",
+		"ghn_id": "239",
+		"viettel_id": "48",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "cfc724fe-7fff-4786-ba76-c15c3e85f86d",
+		"name": "Trà Vinh",
+		"country": "vi",
+		"ghn_id": "214",
+		"viettel_id": "60",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "d68ddbdd-f92d-4223-8728-f043706af824",
+		"name": "Hà Giang",
+		"country": "vi",
+		"ghn_id": "227",
+		"viettel_id": "18",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "d75f1362-31b2-43a6-a348-091627158c14",
+		"name": "Bình Dương",
+		"country": "vi",
+		"ghn_id": "205",
+		"viettel_id": "50",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "dc5b87cb-1913-4643-b394-dd20d09106bc",
+		"name": "Hà Nam",
+		"country": "vi",
+		"ghn_id": "232",
+		"viettel_id": "14",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "dd54c8cf-14cf-4bce-8127-6f1ed22b1200",
+		"name": "Vĩnh Long",
+		"country": "vi",
+		"ghn_id": "215",
+		"viettel_id": "57",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "df2d8de2-f29e-426f-bcec-ea9a43d556d3",
+		"name": "An Giang",
+		"country": "vi",
+		"ghn_id": "217",
+		"viettel_id": "56",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "e6ee6bb2-4248-44b1-b0e3-364624731fc2",
+		"name": "Cà Mau",
+		"country": "vi",
+		"ghn_id": "252",
+		"viettel_id": "63",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "e7fe2923-1a57-4e78-b676-c4e82f1038d5",
+		"name": "Đồng Nai",
+		"country": "vi",
+		"ghn_id": "204",
+		"viettel_id": "51",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "ee733299-0676-411d-bb46-1d93ede5cf88",
+		"name": "Lai Châu",
+		"country": "vi",
+		"ghn_id": "264",
+		"viettel_id": "29",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "f173d0eb-1a7b-483f-b53b-5fd061c5e505",
+		"name": "Kiên Giang",
+		"country": "vi",
+		"ghn_id": "219",
+		"viettel_id": "59",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "f33395ae-b550-47ab-907c-50f7f34ec0d0",
+		"name": "Khánh Hòa",
+		"country": "vi",
+		"ghn_id": "208",
+		"viettel_id": "42",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "f34d99dd-7b0e-4bcb-ba7b-b2fc6887fad3",
+		"name": "Đăk Lăk",
+		"country": "vi",
+		"ghn_id": "210",
+		"viettel_id": "45",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	},
+	{
+		"id": "f5934b90-958b-4782-b3cb-5c04a6a29e14",
+		"name": "Nam Ðịnh",
+		"country": "vi",
+		"ghn_id": "231",
+		"viettel_id": "15",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "f6118f56-996a-4662-a973-9c23eb58151e",
+		"name": "Quảng Tây",
+		"country": "cn",
+		"ghn_id": "",
+		"viettel_id": "100",
+		"created_at": null,
+		"updated_at": null
+	},
+	{
+		"id": "f8a70365-67bb-4687-abd1-ba6972e18950",
+		"name": "Hà Tĩnh",
+		"country": "vi",
+		"ghn_id": "236",
+		"viettel_id": "34",
+		"created_at": null,
+		"updated_at": "2022-11-08 14:35:09"
+	}
+]
